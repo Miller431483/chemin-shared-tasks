@@ -34,7 +34,6 @@ needs a decision only he can make.
 
 | Task | Owner | Status | Due / slot | Details |
 | --- | --- | --- | --- | --- |
-| Noces lot-drawing short (TikTok 12:30 + Facebook 20:30) | TheMAN | in progress | Thu 2026-11-12 | V5.5 APPROVED by Rajo. TikTok DONE: signed in as @chemin.de.lumire80 (SMS send was rate-limited; Florence signed in himself by password + code), video uploaded and SCHEDULED for 12:30 EAT Nov 12 with Rajo's approved caption (Wise proposal 2: Personne ne choisit son chemin...). Remaining: Facebook 20:30 EAT, same clip. Captions per CAPTION-METHOD.md (18 chunks, word-for-word verified). |
 | Thu 2026-11-12 posts (6 AM Noces + 7 PM Mari Silva) | Lucky | in progress | Thu 2026-11-12 | 6 AM Noces post LIVE 08:24 EAT, both Page comments up 08:25. 7 PM Mari Silva SCHEDULED 19:00 EAT, comments check 19:05. Rose-Croix Ep 6 Reel scheduled 12:30, comments 12:35. |
 | 30-minute monitor (Facebook comments, Page inbox, WhatsApp) | Lucky | in progress | ongoing | Every 30 min. Routine replies autonomous. Only Lucky does this. |
 | Calendar Space (Chemin de Lumiere content calendar) | Lucky | in progress | ongoing | Spreadsheet is the master plan. Space is the phone-friendly view. Public link shows the last shared version; re-share after edits. |
@@ -66,6 +65,7 @@ needs a decision only he can make.
 | Multi-account Gemini (3 Pro accounts, switching verified) | Lucky | 2026-11-10 | tiatekmg, lovatodaniela35, ojharkaiahzik. |
 | TheMAN handoff (27 files) + revised split confirmed | Lucky | 2026-11-10 | TheMAN confirmed the split and saved it. |
 | Mistral AI connected + tested | Lucky | 2026-11-10 | Le Chat, florence.clark@go.sfcollege.edu. OCR is the standout. |
+| Noces lot-drawing short (TikTok 12:30 + Facebook 20:30) | TheMAN | 2026-11-12 | DONE. V5.5 approved by Rajo. TikTok: uploaded to @chemin.de.lumire80 and scheduled for 12:30 EAT Nov 12 with the approved caption (Wise proposal 2). Facebook: Florence Clark's Page access came through in the connector (Chemin de Lumiere now listed); the same clip is scheduled on the Page for 20:30 EAT Nov 12 with the same caption (scheduled post 1539847754830613). Captions per CAPTION-METHOD.md. |
 
 ## Rules that still stand
 
