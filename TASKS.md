@@ -79,9 +79,7 @@ needs a decision only he can make.
   Tia-tek voice, no spoken next-episode pointer.
 - Rajo stays anonymous: no live video on any platform, ever.
 - Only Lucky replies and monitors. TheMAN does not reply or monitor.
-- Captions: word-level timings from faster-whisper on the FINISHED
-  narration, never estimated from the text. Max 4 words per chunk, new
-  chunk after each period. The caption text must match the narration
-  word for word. If a word is dropped from the captions, every chunk
-  after it will be mistimed. The red highlight must follow the spoken
-  word, not stay on the first word of the chunk.
+- Captions: follow CAPTION-METHOD.md in this repo. Word-level timings
+  from faster-whisper on the FINISHED narration, never estimated from
+  the text. The caption text must match the narration word for word.
+  Run the verification checklist before delivering any video.
