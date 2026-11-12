@@ -37,6 +37,7 @@ needs a decision only he can make.
 | Thu 2026-11-12 posts (6 AM Noces + 7 PM Mari Silva) | Lucky | in progress | Thu 2026-11-12 | 6 AM Noces post LIVE 08:24 EAT, both Page comments up 08:25. 7 PM Mari Silva SCHEDULED 19:00 EAT, comments check 19:05. Rose-Croix Ep 6 Reel scheduled 12:30, comments 12:35. |
 | 30-minute monitor (Facebook comments, Page inbox, WhatsApp) | Lucky | in progress | ongoing | Every 30 min. Routine replies autonomous. Only Lucky does this. |
 | Calendar Space (Chemin de Lumiere content calendar) | Lucky | in progress | ongoing | Spreadsheet is the master plan. Space is the phone-friendly view. Public link shows the last shared version; re-share after edits. |
+| PAPUS series mains, Eps 1-5 (Nov 15-19) | TheMAN | in progress | Ep 1 Sun 2026-11-15 FB 12:30 / TikTok 20:30 | Florence assigned the series brief to TheMAN 2026-11-12. Wise brief V2 done (chat 6af5c25c): series map for all 5 episodes, Ep 1 narration 129 words built promise-build-payoff (payoff: the name Papus comes from a spirit of medicine in the Nuctemeron), 6 scene prompt pairs, 5 caption proposals. Ep 1 narration awaiting Rajo approval. Eps 2-5 payoffs deliberately NOT fixed yet: each is set only after reading its named source (Traite 1888, Tarot des Bohemiens 1889, Martinist history, Traite 1893), per the outcome rule. Scene timings to be re-fitted to the recorded narration in production. |
 
 ## Waiting on Rajo
 
