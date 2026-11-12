@@ -34,7 +34,6 @@ needs a decision only he can make.
 
 | Task | Owner | Status | Due / slot | Details |
 | --- | --- | --- | --- | --- |
-| Add Instagram (@chemin_de_lumiere22) as a social media channel | Lucky | in progress | Thu 2026-11-12 | Account verified 2026-11-12 via Business Suite: @chemin_de_lumiere22, 27 followers, at least 24 posts, idle since Oct 22, 2026. Use it directly through the browser via Business Suite (NOT the Instagram connector, which has no linked account). Plan decided 2026-11-12 via ChatGPT Wise brainstorm: Reels-first, reuse-only. 28 main Reels (daily 20:30), 4 short Reels (Saturdays 14:30), 4 optional Stories (Thursdays 21:00), Nov 13-Dec 10. Calendar updated to 220 entries (124 FB, 60 TT, 36 IG). BLOCKER: Instagram shows Login needed in Business Suite; Rajo must refresh/verify the Instagram login before the first Instagram publish. OPEN: the Nov 16 Facebook transfer post (19:00) conflicts with the Nov 16 19:00 sales post slot; Rajo to decide. |
 | Thu 2026-11-12 posts (6 AM Noces + 7 PM Mari Silva) | Lucky | in progress | Thu 2026-11-12 | 6 AM Noces post LIVE 08:24 EAT, both Page comments up 08:25. 7 PM Mari Silva SCHEDULED 19:00 EAT, comments check 19:05. Rose-Croix Ep 6 Reel scheduled 12:30, comments 12:35. |
 | 30-minute monitor (Facebook comments, Page inbox, WhatsApp) | Lucky | in progress | ongoing | Every 30 min. Routine replies autonomous. Only Lucky does this. |
 | Calendar Space (Chemin de Lumiere content calendar) | Lucky | in progress | ongoing | Spreadsheet is the master plan. Space is the phone-friendly view. Public link shows the last shared version; re-share after edits. |
@@ -56,7 +55,8 @@ needs a decision only he can make.
 
 | Task | Owner | Done | Result |
 | --- | --- | --- | --- |
-| Instagram plan applied to calendar | Lucky | 2026-11-12 | Wise brainstorm (ChatGPT chat 6af598c1) decided Reels-first reuse-only plan. Spreadsheet + Space updated to 220 entries (36 Instagram). Launch Nov 13, first Reel 20:30. |
+| Add Instagram as a social media channel | Lucky | 2026-11-12 | DROPPED. Instagram blocked (connector link blocked; Business Suite login also showed Login needed). Rajo said forget about it. Calendar reverted to 184 entries. Do not re-add Instagram without Rajo asking. |
+| Instagram plan applied to calendar, then reverted | Lucky | 2026-11-12 | Wise brainstorm (ChatGPT chat 6af598c1) decided Reels-first reuse-only plan; spreadsheet + Space updated to 220 entries (36 Instagram). REVERTED same day: Instagram blocked, Rajo said forget about it. Calendar back to 184 entries (124 FB, 60 TT). Instagram dropped as a channel. |
 | TheMAN calendar/series update | TheMAN | 2026-11-11 | Update file (update-for-theman-calendar-series-nov11.md) received and confirmed by TheMAN 2026-11-11. TheMAN rebuilt the calendar Space in his own account: 184 entries, Nov 11 to Dec 10, filters verified (TikTok 60 of 184, Needs replacement exactly 1). |
 | Wed 2026-11-11 posts (6 AM + 7 PM Menard) | Lucky | 2026-11-11 | 6 AM live 06:00, comments 06:06-06:07. 7 PM Menard live 19:00, comments 19:06-19:07. Fikri draft killed by page rule. Lahy cancelled to draft. |
 | One-month content calendar Nov 11-Dec 10 (184 slots) | Lucky | 2026-11-11 | Spreadsheet + Space built. Series plan applied (64 rows). Facebook shorts added (30). |
