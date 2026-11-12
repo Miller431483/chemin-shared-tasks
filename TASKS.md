@@ -50,7 +50,7 @@ needs a decision only he can make.
 | 127 Rituels video: music / voice effects | Rajo | waiting on Rajo | v6 APPROVED (2026-11-10, Good. Keep this setup). Music bed and voice effects undecided. Video unpublished. |
 | Blank notebook on live Mon 6 AM post | Rajo | waiting on Rajo | Post is live with an open blank notebook in the image. Leave as is, or delete and repost with a new image? No answer yet. |
 | Held books 1420 (27p) and 1418 (33p) both fail page rule | Rajo | waiting on Rajo | Find replacements or pick different books? No answer yet. |
-| Noces lot-drawing short (TikTok 12:30 + Facebook 20:30) | TheMAN | waiting on Rajo | Build V5.4 done 2026-11-12 (30.13s, 1080x1920), delivered to Florence for Rajo approval, NOT posted. Caption sync fixed: phoneme-level forced alignment cross-checked against the waveform (the block around 15s had sat up to 0.45s early). Same video for TikTok 12:30 and Facebook 20:30 Thu 2026-11-12. TheMAN posts it once Rajo approves. |
+| Noces lot-drawing short (TikTok 12:30 + Facebook 20:30) | TheMAN | waiting on Rajo | Build V5.4 done 2026-11-12 (30.13s, 1080x1920), delivered to Florence for Rajo approval, NOT posted. TheMAN claims caption sync fixed via phoneme-level forced alignment (block around 15s had sat up to 0.45s early). LUCKY MEASURED V5.4 INDEPENDENTLY 2026-11-12 (faster-whisper word timings vs on-screen chunks): STILL UNSYNC. First 13 chunks in sync; last 4 chunks early by 0.7-1.4s. Root cause: the word grimper is MISSING from the captions (narration says permet de grimper, captions jump from permet de to Trois outils), so every chunk after it starts too early. TheMAN fix addressed the 15s block but not the missing word. Fix: re-derive ALL caption timings from the finished audio with grimper as its own chunk (18 chunks, correct timings in Lucky file noces-short-caption-diagnosis-2026-11-12.md). Also the red highlight stays on the first word of each chunk instead of following the spoken word. 5th correction and still unsync because nudging chunks cannot fix a missing word in the caption list. TheMAN posts it once Rajo approves. |
 
 ## Done
 
@@ -79,3 +79,9 @@ needs a decision only he can make.
   Tia-tek voice, no spoken next-episode pointer.
 - Rajo stays anonymous: no live video on any platform, ever.
 - Only Lucky replies and monitors. TheMAN does not reply or monitor.
+- Captions: word-level timings from faster-whisper on the FINISHED
+  narration, never estimated from the text. Max 4 words per chunk, new
+  chunk after each period. The caption text must match the narration
+  word for word. If a word is dropped from the captions, every chunk
+  after it will be mistimed. The red highlight must follow the spoken
+  word, not stay on the first word of the chunk.
