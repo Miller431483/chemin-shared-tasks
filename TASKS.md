@@ -34,7 +34,7 @@ needs a decision only he can make.
 
 | Task | Owner | Status | Due / slot | Details |
 | --- | --- | --- | --- | --- |
-| Noces lot-drawing short (TikTok 12:30 + Facebook 20:30) | TheMAN | in progress | Thu 2026-11-12 | V5.5 APPROVED by Rajo 2026-11-12. Posting in progress: TikTok first (12:30 EAT) — @chemin.de.lumire80 was not signed in; sign-in opened, phone number + SMS code needed from Florence/Rajo. Then Facebook 20:30 EAT. Captions per CAPTION-METHOD.md (18 chunks, word-for-word verified). |
+| Noces lot-drawing short (TikTok 12:30 + Facebook 20:30) | TheMAN | in progress | Thu 2026-11-12 | V5.5 APPROVED by Rajo. TikTok DONE: signed in as @chemin.de.lumire80 (SMS send was rate-limited; Florence signed in himself by password + code), video uploaded and SCHEDULED for 12:30 EAT Nov 12 with Rajo's approved caption (Wise proposal 2: Personne ne choisit son chemin...). Remaining: Facebook 20:30 EAT, same clip. Captions per CAPTION-METHOD.md (18 chunks, word-for-word verified). |
 | Thu 2026-11-12 posts (6 AM Noces + 7 PM Mari Silva) | Lucky | in progress | Thu 2026-11-12 | 6 AM Noces post LIVE 08:24 EAT, both Page comments up 08:25. 7 PM Mari Silva SCHEDULED 19:00 EAT, comments check 19:05. Rose-Croix Ep 6 Reel scheduled 12:30, comments 12:35. |
 | 30-minute monitor (Facebook comments, Page inbox, WhatsApp) | Lucky | in progress | ongoing | Every 30 min. Routine replies autonomous. Only Lucky does this. |
 | Calendar Space (Chemin de Lumiere content calendar) | Lucky | in progress | ongoing | Spreadsheet is the master plan. Space is the phone-friendly view. Public link shows the last shared version; re-share after edits. |
