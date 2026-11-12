@@ -68,6 +68,7 @@ needs a decision only he can make.
 | TheMAN handoff (27 files) + revised split confirmed | Lucky | 2026-11-10 | TheMAN confirmed the split and saved it. |
 | Mistral AI connected + tested | Lucky | 2026-11-10 | Le Chat, florence.clark@go.sfcollege.edu. OCR is the standout. |
 | Noces lot-drawing short (TikTok 12:30 + Facebook 20:30) | TheMAN | 2026-11-12 | DONE. V5.5 approved by Rajo. TikTok: uploaded to @chemin.de.lumire80 and scheduled for 12:30 EAT Nov 12 with the approved caption (Wise proposal 2). Facebook: Florence Clark Page access came through in the connector (Chemin de Lumiere now listed); the same clip is scheduled on the Page for 20:30 EAT Nov 12 with the same caption (scheduled post 1539847754830613). Captions per CAPTION-METHOD.md. |
+| Anubis, gardien du seuil short (TikTok 12:30 + Facebook 20:30, Fri Nov 13) | TheMAN | 2026-11-12 | DONE. Wise V2 narration with the new hook approved by Rajo; finished video (29.96s) approved by Florence 2026-11-12. Scenes 1-2 Veo under davestephen6220 (AI Plus quota stopped at two), scenes 3-6 Muse video tool; Florence reinforced the rule: Gemini always first for animation. Caption: Wise proposal 5, picked by Rajo. TikTok: scheduled Fri Nov 13 12:30 EAT on @chemin.de.lumire80. Facebook: scheduled Fri Nov 13 20:30 EAT on the Page (scheduled post 1539935768155145). Captions per CAPTION-METHOD.md. |
 
 ## Rules that still stand
 
