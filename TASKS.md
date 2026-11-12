@@ -34,7 +34,7 @@ needs a decision only he can make.
 
 | Task | Owner | Status | Due / slot | Details |
 | --- | --- | --- | --- | --- |
-| Noces lot-drawing short (TikTok 12:30 + Facebook 20:30) | TheMAN | in progress | Thu 2026-11-12 | 15-30s discovery short. Topic: echelles, cordes et ailes, trois objets, un seul tirage (Noces Chymiques, 6e jour). Same video for TikTok 12:30 and Facebook 20:30. Assigned by Rajo 2026-11-12. Lucky does NOT build it. |
+| Noces lot-drawing short (TikTok 12:30 + Facebook 20:30) | TheMAN | in progress | Thu 2026-11-12 | 15-30s discovery short. Topic: echelles, cordes et ailes, trois objets, un seul tirage (Noces Chymiques, 6e jour). Same video for TikTok 12:30 and Facebook 20:30. Assigned by Rajo 2026-11-12. Lucky does NOT build it. Build V5.3 done 2026-11-12 (30.13s, 1080x1920), delivered for Rajo approval, NOT posted. Caption sync issue remains, worst at ~15s; fix in progress (measure at the 15s anchor, or rebuild timings with phoneme-level forced alignment). |
 | Thu 2026-11-12 posts (6 AM Noces + 7 PM Mari Silva) | Lucky | in progress | Thu 2026-11-12 | 6 AM Noces post LIVE 08:24 EAT, both Page comments up 08:25. 7 PM Mari Silva SCHEDULED 19:00 EAT, comments check 19:05. Rose-Croix Ep 6 Reel scheduled 12:30, comments 12:35. |
 | 30-minute monitor (Facebook comments, Page inbox, WhatsApp) | Lucky | in progress | ongoing | Every 30 min. Routine replies autonomous. Only Lucky does this. |
 | Calendar Space (Chemin de Lumiere content calendar) | Lucky | in progress | ongoing | Spreadsheet is the master plan. Space is the phone-friendly view. Public link shows the last shared version; re-share after edits. |
@@ -46,7 +46,6 @@ needs a decision only he can make.
 | Nov 29 6 AM text replacement (Fikri fails page rule) | Lucky | waiting on Rajo | Fikri (1363) verified 6-9 pages, fails the 50-page floor. Only the Nov 29 6 AM text still uses Fikri. Replacement not chosen. Proposed: Gaia Sauge, Talismans Energetiques (3046), but its 264-page evidence is a Dutch edition, not Rajo own copy. Check the Drive copy [3046] page count first. |
 | Lahy re-slot | Lucky | waiting on Rajo | Les 72 noms du Nom (Georges Lahy, 755) post cancelled back to draft 2026-11-11. Offer stands: 32,000 Ar first 25, normal 105,000 Ar, bonus Le Sefer Yetsirah + Kabbale extatique et Tserouf. Rajo has not chosen a new day. |
 | Mellin page count | Lucky | waiting on Rajo | Hector Mellin, Tradition et pentacles (2992): no verified page count found. Cannot be confirmed to pass the 50-page floor. |
-| TheMAN calendar/series update | Rajo | waiting on Rajo | Update file written with the live Space link (update-for-theman-calendar-series-nov11.md). Rajo has not confirmed sending it to TheMAN. |
 | Translation project: first work + posting place + website state | Rajo | waiting on Rajo | Which Calligaris work first, source language, where translations will be posted, what is built/unfinished on the Chemin de Lumiere website. Three questions unanswered since 2026-11-09. |
 | TikTok foundation (one real thing per video) | Rajo | waiting on Rajo | Proposed 2026-11-09, not formally answered. TikTok upload route still untested. Ep 1 video must NOT be test-uploaded. |
 | 127 Rituels video: music / voice effects | Rajo | waiting on Rajo | v6 APPROVED (2026-11-10, Good. Keep this setup). Music bed and voice effects undecided. Video unpublished. |
@@ -57,6 +56,7 @@ needs a decision only he can make.
 
 | Task | Owner | Done | Result |
 | --- | --- | --- | --- |
+| TheMAN calendar/series update | TheMAN | 2026-11-11 | Update file (update-for-theman-calendar-series-nov11.md) received and confirmed by TheMAN 2026-11-11. TheMAN rebuilt the calendar Space in his own account: 184 entries, Nov 11 to Dec 10, filters verified (TikTok 60 of 184, Needs replacement exactly 1). |
 | Wed 2026-11-11 posts (6 AM + 7 PM Menard) | Lucky | 2026-11-11 | 6 AM live 06:00, comments 06:06-06:07. 7 PM Menard live 19:00, comments 19:06-19:07. Fikri draft killed by page rule. Lahy cancelled to draft. |
 | One-month content calendar Nov 11-Dec 10 (184 slots) | Lucky | 2026-11-11 | Spreadsheet + Space built. Series plan applied (64 rows). Facebook shorts added (30). |
 | Five video series plan (Papus, Golden Dawn, Crowley, Corpus Hermeticum, Tarot) | Lucky | 2026-11-11 | Approved by Rajo and applied to calendar + Space. |
