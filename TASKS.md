@@ -86,3 +86,4 @@ needs a decision only he can make.
   from faster-whisper on the FINISHED narration, never estimated from
   the text. The caption text must match the narration word for word.
   Run the verification checklist before delivering any video.
+- Outcome rule (Rajo, 2026-11-12, ALL content): every piece of content is built promise, build, payoff. The opening creates an expectation of a specific gain, the middle builds toward it, and the end delivers one concrete piece of valued information the audience can retell. Curiosity alone is not enough, and a symbol or an image alone is not a payoff. Post captions carry the promise too.
