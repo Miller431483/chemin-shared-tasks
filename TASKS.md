@@ -34,6 +34,7 @@ needs a decision only he can make.
 
 | Task | Owner | Status | Due / slot | Details |
 | --- | --- | --- | --- | --- |
+| Noces lot-drawing short (TikTok 12:30 + Facebook 20:30) | TheMAN | in progress | Thu 2026-11-12 | V5.5 APPROVED by Rajo 2026-11-12. Posting in progress: TikTok first (12:30 EAT) — @chemin.de.lumire80 was not signed in; sign-in opened, phone number + SMS code needed from Florence/Rajo. Then Facebook 20:30 EAT. Captions per CAPTION-METHOD.md (18 chunks, word-for-word verified). |
 | Thu 2026-11-12 posts (6 AM Noces + 7 PM Mari Silva) | Lucky | in progress | Thu 2026-11-12 | 6 AM Noces post LIVE 08:24 EAT, both Page comments up 08:25. 7 PM Mari Silva SCHEDULED 19:00 EAT, comments check 19:05. Rose-Croix Ep 6 Reel scheduled 12:30, comments 12:35. |
 | 30-minute monitor (Facebook comments, Page inbox, WhatsApp) | Lucky | in progress | ongoing | Every 30 min. Routine replies autonomous. Only Lucky does this. |
 | Calendar Space (Chemin de Lumiere content calendar) | Lucky | in progress | ongoing | Spreadsheet is the master plan. Space is the phone-friendly view. Public link shows the last shared version; re-share after edits. |
@@ -50,7 +51,6 @@ needs a decision only he can make.
 | 127 Rituels video: music / voice effects | Rajo | waiting on Rajo | v6 APPROVED (2026-11-10, Good. Keep this setup). Music bed and voice effects undecided. Video unpublished. |
 | Blank notebook on live Mon 6 AM post | Rajo | waiting on Rajo | Post is live with an open blank notebook in the image. Leave as is, or delete and repost with a new image? No answer yet. |
 | Held books 1420 (27p) and 1418 (33p) both fail page rule | Rajo | waiting on Rajo | Find replacements or pick different books? No answer yet. |
-| Noces lot-drawing short (TikTok 12:30 + Facebook 20:30) | TheMAN | waiting on Rajo | Build V5.5 done 2026-11-12 (30.13s, 1080x1920), delivered to Florence for Rajo approval, NOT posted. Captions rebuilt per CAPTION-METHOD.md: ALL timings re-derived with faster-whisper on the finished narration audio, caption list verified word-for-word against the script (61 words, none missing), grimper included as its own chunk (18 chunks), red highlight follows the spoken word. Chunk timings match Lucky diagnosis table exactly. TheMAN posts it once Rajo approves. |
 
 ## Done
 
