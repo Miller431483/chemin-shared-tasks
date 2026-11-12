@@ -34,7 +34,6 @@ needs a decision only he can make.
 
 | Task | Owner | Status | Due / slot | Details |
 | --- | --- | --- | --- | --- |
-| Noces lot-drawing short (TikTok 12:30 + Facebook 20:30) | TheMAN | in progress | Thu 2026-11-12 | 15-30s discovery short. Topic: echelles, cordes et ailes, trois objets, un seul tirage (Noces Chymiques, 6e jour). Same video for TikTok 12:30 and Facebook 20:30. Assigned by Rajo 2026-11-12. Lucky does NOT build it. Build V5.3 done 2026-11-12 (30.13s, 1080x1920), delivered for Rajo approval, NOT posted. Caption sync issue remains, worst at ~15s; fix in progress (measure at the 15s anchor, or rebuild timings with phoneme-level forced alignment). |
 | Thu 2026-11-12 posts (6 AM Noces + 7 PM Mari Silva) | Lucky | in progress | Thu 2026-11-12 | 6 AM Noces post LIVE 08:24 EAT, both Page comments up 08:25. 7 PM Mari Silva SCHEDULED 19:00 EAT, comments check 19:05. Rose-Croix Ep 6 Reel scheduled 12:30, comments 12:35. |
 | 30-minute monitor (Facebook comments, Page inbox, WhatsApp) | Lucky | in progress | ongoing | Every 30 min. Routine replies autonomous. Only Lucky does this. |
 | Calendar Space (Chemin de Lumiere content calendar) | Lucky | in progress | ongoing | Spreadsheet is the master plan. Space is the phone-friendly view. Public link shows the last shared version; re-share after edits. |
@@ -51,6 +50,7 @@ needs a decision only he can make.
 | 127 Rituels video: music / voice effects | Rajo | waiting on Rajo | v6 APPROVED (2026-11-10, Good. Keep this setup). Music bed and voice effects undecided. Video unpublished. |
 | Blank notebook on live Mon 6 AM post | Rajo | waiting on Rajo | Post is live with an open blank notebook in the image. Leave as is, or delete and repost with a new image? No answer yet. |
 | Held books 1420 (27p) and 1418 (33p) both fail page rule | Rajo | waiting on Rajo | Find replacements or pick different books? No answer yet. |
+| Noces lot-drawing short (TikTok 12:30 + Facebook 20:30) | TheMAN | waiting on Rajo | Build V5.4 done 2026-11-12 (30.13s, 1080x1920), delivered to Florence for Rajo approval, NOT posted. Caption sync fixed: phoneme-level forced alignment cross-checked against the waveform (the block around 15s had sat up to 0.45s early). Same video for TikTok 12:30 and Facebook 20:30 Thu 2026-11-12. TheMAN posts it once Rajo approves. |
 
 ## Done
 
