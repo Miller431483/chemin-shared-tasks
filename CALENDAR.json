@@ -1,0 +1,1908 @@
+{
+ "title": "Chemin de Lumière — calendrier partagé Lucky × TheMAN (corrigé)",
+ "range": "2026-11-11 to 2026-12-15",
+ "source": "Calendrier unique partagé par Lucky et TheMAN. Corrigé le 2026-11-13 (audit Wise) : re-séquence TikTok du 12 nov. appliquée aux principaux (Papus 12-16 nov., Rose-Croix 17-24 nov., Golden Dawn 25-29 nov., Crowley 30 nov.-4 déc., Corpus 5-9 déc., unitaires 10-15 déc.), titres Golden Dawn alignés sur les épisodes produits, extension au 15 déc.",
+ "totals": {
+  "entries": 189,
+  "facebook": 124,
+  "tiktok": 65
+ },
+ "pattern": "Facebook text posts 06:00 and 19:00; Facebook explanation (main) video 12:30 and Facebook short 20:30; TikTok short 12:30 and TikTok explanation (main) video 20:30. Les séries sont des chaînes indépendantes par plateforme : l'ordre et la continuité comptent à l'intérieur de chaque plateforme, les dates peuvent différer entre Facebook et TikTok. Un court appartient à un principal précis et reçoit sa propre date par plateforme, rattachée au principal de cette plateforme. Les textes Facebook 06:00 et 19:00 suivent le calendrier Facebook. Saturdays add a pre-recorded Facebook Q&A at 18:00.",
+ "decisions": [
+  "Sun 29 Nov 06:00 text still built in part on Kévin Fikri, Talismans et Amulettes magiques (book 1363), verified at only 6–9 pages, failing the 50-page minimum. It needs a replacement. The 29 Nov videos are no longer Fikri (main: Crowley Episode 5; short: the philosopher's stone).",
+  "Georges Lahy, Les 72 noms du Nom (book 755) was cancelled from the 11 Nov 19:00 slot and is back to a draft, still needing a new day. A different Lahy book, Paroles de nombres, is planned for Wed 18 Nov at 19:00.",
+  "Hector Mellin, Tradition et pentacles (book 2992), used in the 11 Nov 06:00 post: no verified page count has been found, so it cannot be confirmed against the page rule and cannot be a sales post until it is."
+ ],
+ "entries": [
+  {
+   "date": "2026-11-11",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Amulette, talisman, pentacle: trois mots que l'on confond souvent",
+   "source": "Kevin Fikri, Talismans et Amulettes magiques (1363); Martine Ménard, Création d'un Talisman; Hector Mellin, Tradition et pentacles (2992)",
+   "notes": "Live. Posted 06:00 EAT, both Page comments up 06:06-06:07. Sharing post, description only.",
+   "status": "live"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "ROSE-CROIX, EPISODE 5/8. Le tombeau triangulaire de Vénus",
+   "source": "Noces Chymiques, 5e jour (Andreae)",
+   "notes": "Scheduled. Video approved. 57s. Same main video as TikTok 20:30.",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Le vase de cuivre et l'arbre inconnu du tombeau de Vénus",
+   "source": "Noces Chymiques, 5e jour",
+   "notes": "Planned. Discovery, 15-30s, one real detail.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Création d’un Talisman: l’identité cosmique et le talisman personnel",
+   "source": "Martine Ménard, Création d’un Talisman (1609)",
+   "notes": "Scheduled. Approved and scheduled 2026-11-11. Sales post, description only, no price. Replaces Lahy (cancelled, draft to re-slot).",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Le vase de cuivre et l'arbre inconnu du tombeau de Vénus",
+   "source": "Noces Chymiques, 5e jour",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "ROSE-CROIX, EPISODE 5/8. Le tombeau triangulaire de Vénus",
+   "source": "Noces Chymiques, 5e jour",
+   "notes": "Planned. Main video, 40-65s. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Le tirage au sort des Noces Chymiques: échelles, cordes et ailes",
+   "source": "Noces Chymiques, 6e jour (Andreae)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "ROSE-CROIX, EPISODE 6/8. L'échelle attribuée par le sort",
+   "source": "Noces Chymiques, 6e jour (Andreae)",
+   "notes": "Scheduled. Video approved and scheduled. 51s. Same main video as TikTok 20:30.",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Échelles, cordes et ailes: trois objets, un seul tirage",
+   "source": "Noces Chymiques, 6e jour",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Création de sorts et magie blanche: protection et bénédictions",
+   "source": "Mari Silva, Création de sorts et magie blanche (2536), 218p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Échelles, cordes et ailes: trois objets, un seul tirage",
+   "source": "Noces Chymiques, 6e jour",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "PAPUS, ÉPISODE 1/5. Le médecin devenu occultiste",
+   "source": "Papus (Gérard Encausse)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "live"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "La revue Rose-Croix no. 141: le cerveau intérieur et ses gardiens",
+   "source": "Revue Rose-Croix no. 141",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "ROSE-CROIX, EPISODE 7/8. Anubis",
+   "source": "Revue Rose-Croix no. 141",
+   "notes": "Scheduled. Video approved and scheduled. 53s. Same main video as TikTok 20:30.",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Anubis, gardien du seuil",
+   "source": "Revue Rose-Croix no. 141",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Le Grimoire Ancestral des Rituels de Protection: 50 pratiques",
+   "source": "Léa Ardent, Le Grimoire Ancestral des Rituels de Protection (2093), 420p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Anubis, gardien du seuil",
+   "source": "Revue Rose-Croix no. 141",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "PAPUS, ÉPISODE 2/5. L'analogie dans le Traité élémentaire de science occulte (1888)",
+   "source": "Papus, Traité élémentaire de science occulte (1888)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "live"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "L'hippocampe: la mémoire comparée aux pages d'un livre",
+   "source": "Revue Rose-Croix no. 141",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "ROSE-CROIX, EPISODE 8/8. L'hippocampe",
+   "source": "Revue Rose-Croix no. 141",
+   "notes": "Scheduled. Video approved and scheduled. 50s. Same main video as TikTok 20:30.",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "L'hippocampe, cheval marin de la mémoire",
+   "source": "Revue Rose-Croix no. 141",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "18:00",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "Q and A pré-enregistrée, semaine 1: questions du public, sources Rose-Croix",
+   "source": "Revue Rose-Croix no. 210 et no. 141; Noces Chymiques",
+   "notes": "Planned. Pre-recorded Q and A video, replaces the planned live. Extra slot.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Grimoire des Rituels de Magie Blanche Tome 1",
+   "source": "Caroline Lefebvre, Grimoire des Rituels de Magie Blanche Tome 1 (2876), 213p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "L'hippocampe, cheval marin de la mémoire",
+   "source": "Revue Rose-Croix no. 141",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "PAPUS, ÉPISODE 3/5. Le Tarot des Bohémiens (1889)",
+   "source": "Papus, Le Tarot des Bohémiens (1889)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-15",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Le sceau copte: une case vide au centre, et pourquoi",
+   "source": "Gérard Viaud, Les 151 Psaumes de David dans la Magie Copte (2269)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-15",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "PAPUS, ÉPISODE 1/5. Le médecin devenu occultiste",
+   "source": "Papus (Gérard Encausse)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-15",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Pourquoi le centre du sceau copte reste vide",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-15",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Réconfort des psaumes: prières de protection, de paix et d'espérance",
+   "source": "David Réconfort, Réconfort des psaumes (2847), 122p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-15",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Pourquoi le centre du sceau copte reste vide",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-15",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "PAPUS, ÉPISODE 4/5. L'Ordre Martiniste, fondé en 1891",
+   "source": "Papus, Ordre Martiniste (1891)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-16",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Les sept degrés du Feu: ce que contient vraiment le livre de Gascon",
+   "source": "Roger Gascon, Magie des bougies (3234)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-16",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "PAPUS, ÉPISODE 2/5. L'analogie dans le Traité élémentaire de science occulte (1888)",
+   "source": "Papus, Traité élémentaire de science occulte (1888)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-16",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Gascon ne développe que le premier degré du feu",
+   "source": "Roger Gascon, Magie des bougies (3234)",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-16",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Le guide de la Kabbale: Arbre de Vie et Sefirot",
+   "source": "Jhude Publishing, Le guide de la Kabbale (1968), 250p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-16",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Gascon ne développe que le premier degré du feu",
+   "source": "Roger Gascon, Magie des bougies (3234)",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-16",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "PAPUS, ÉPISODE 5/5. La magie pratique dans le Traité de 1893",
+   "source": "Papus, Traité élémentaire de magie pratique (1893)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Peindre un ange dont aucun portrait n'a été établi",
+   "source": "Kabaleb et Guerashel, Alchimie Interne par les 72 Anges (703)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "PAPUS, ÉPISODE 3/5. Le Tarot des Bohémiens (1889)",
+   "source": "Papus, Le Tarot des Bohémiens (1889)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Elemiah et Sitael: deux noms, pas de portrait établi",
+   "source": "Kabaleb et Guerashel (703)",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Initiation à la kabbale et à l'ésotérisme",
+   "source": "Agalmar et Bernard Cousin, Initiation à la kabbale et à l'ésotérisme (2162), 176p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Elemiah et Sitael: deux noms, pas de portrait établi",
+   "source": "Kabaleb et Guerashel (703)",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "ROSE-CROIX, ÉPISODE 1/8. [titre à confirmer par Lucky]",
+   "source": "Revue Rose-Croix (chaîne TikTok Rose-Croix, 17-24 nov.)",
+   "notes": "Épisode Rose-Croix reprogrammé sur TikTok après la re-séquence du 12 nov. Titre exact à confirmer par Lucky.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Le Psaume 23: bien plus que la prospérité",
+   "source": "Gérard Viaud (2269); Olivier Boni, Décryptage du Psaume 23 (327)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "PAPUS, ÉPISODE 4/5. L'Ordre Martiniste, fondé en 1891",
+   "source": "Papus, Ordre Martiniste (1891)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Le Psaume 23, une vertu attribuée",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Paroles de nombres: décoder les mots et les noms par leurs équivalences",
+   "source": "Georges Lahy, Paroles de nombres (750), 131p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Le Psaume 23, une vertu attribuée",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "ROSE-CROIX, ÉPISODE 2/8. [titre à confirmer par Lucky]",
+   "source": "Revue Rose-Croix (chaîne TikTok Rose-Croix, 17-24 nov.)",
+   "notes": "Épisode Rose-Croix reprogrammé sur TikTok après la re-séquence du 12 nov. Titre exact à confirmer par Lucky.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Le Psaume 91, le refuge",
+   "source": "Gérard Viaud (2269); David Réconfort, Réconfort des psaumes (2847)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "PAPUS, ÉPISODE 5/5. La magie pratique dans le Traité de 1893",
+   "source": "Papus, Traité élémentaire de magie pratique (1893)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Le Psaume 91, un refuge en mots",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Magie blanche pour débutants: rituels et sortilèges",
+   "source": "Raphael Lightward, Magie blanche pour débutants (2896), 126p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Le Psaume 91, un refuge en mots",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "ROSE-CROIX, ÉPISODE 3/8. [titre à confirmer par Lucky]",
+   "source": "Revue Rose-Croix (chaîne TikTok Rose-Croix, 17-24 nov.)",
+   "notes": "Épisode Rose-Croix reprogrammé sur TikTok après la re-séquence du 12 nov. Titre exact à confirmer par Lucky.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Trouver ton psaume selon ton besoin",
+   "source": "Gérard Viaud (2269); CLE DE VIE (995)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "GOLDEN DAWN, ÉPISODE 1/5. La naissance de la Golden Dawn",
+   "source": "Golden Dawn, fondateurs Westcott, Mathers et Woodman",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Lettres, nombres et sceau: la structure du psaume",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "50 Techniques pour pratiquer la Magie Blanche et les Rituels de Protection",
+   "source": "Simon Caron (97), 156p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Lettres, nombres et sceau: la structure du psaume",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "ROSE-CROIX, ÉPISODE 4/8. [titre à confirmer par Lucky]",
+   "source": "Revue Rose-Croix (chaîne TikTok Rose-Croix, 17-24 nov.)",
+   "notes": "Épisode Rose-Croix reprogrammé sur TikTok après la re-séquence du 12 nov. Titre exact à confirmer par Lucky.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Les vertus attribuées aux psaumes 2, 4 et 5",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "GOLDEN DAWN, ÉPISODE 2/5. Les manuscrits chiffrés",
+   "source": "Golden Dawn, Cipher Manuscripts",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Le Psaume 2, l'eau et les tempêtes",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "18:00",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "Q and A pré-enregistrée, semaine 2: psaumes et sceau copte",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Pre-recorded Q and A video, replaces the planned live. Extra slot.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Grimoire des Murmures Oubliés: rituels secrets et incantations",
+   "source": "Arielle Ashwood, Grimoire des Murmures Oubliés (1037), 152p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Le Psaume 2, l'eau et les tempêtes",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "ROSE-CROIX, EPISODE 5/8. Le tombeau triangulaire de Vénus",
+   "source": "Noces Chymiques, 5e jour",
+   "notes": "Planned. Main video, 40-65s. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-22",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Les 72 anges: un manuel de travail et des rites quotidiens",
+   "source": "Kabaleb et Guerashel, Alchimie Interne par les 72 Anges (703)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-22",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "GOLDEN DAWN, ÉPISODE 3/5. Les trois chefs et leurs fonctions",
+   "source": "Golden Dawn, temple Isis-Urania (1888)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-22",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Les rouleaux de Ripley",
+   "source": "Rouleaux de Ripley (manuscrits alchimiques)",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-22",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "LE LIVRE D'HÉNOCH: les apocryphes interdits",
+   "source": "Histoire du Monde, LE LIVRE D'HÉNOCH (693), 154p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-22",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Les rouleaux de Ripley",
+   "source": "Rouleaux de Ripley (manuscrits alchimiques)",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-22",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "ROSE-CROIX, EPISODE 6/8. L'échelle attribuée par le sort",
+   "source": "Noces Chymiques, 6e jour",
+   "notes": "Planned. Main video, 40-65s. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Le talisman secret des esséniens: un objet, une histoire",
+   "source": "Olivier Manitara, Le talisman secret des esseniens (267)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "GOLDEN DAWN, ÉPISODE 4/5. Néophyte 0=0",
+   "source": "Golden Dawn, grade de Néophyte 0=0",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Un talisman, une histoire: celui des esséniens",
+   "source": "Olivier Manitara (267)",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Le Grand Livre de Sorcellerie: 5 livres en 1",
+   "source": "Aradia Hartmann, Le Grand Livre de Sorcellerie (1208), 289p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Un talisman, une histoire: celui des esséniens",
+   "source": "Olivier Manitara (267)",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "ROSE-CROIX, EPISODE 7/8. Anubis",
+   "source": "Revue Rose-Croix no. 141",
+   "notes": "Planned. Main video, 40-65s. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Les symboles, vèvès et sceaux: une géométrie à déchiffrer",
+   "source": "Fredson Joseph, Les Mystère de l'invisible (792), 205p",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "GOLDEN DAWN, ÉPISODE 5/5. Les quatre éléments cachés dans les grades",
+   "source": "Golden Dawn, grades élémentaires",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Un carré magique: comment reconnaître son organisation",
+   "source": "Fredson Joseph (792)",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "La Magie du Tarot: le guide du tarot Rider Waite",
+   "source": "Émilie Sky, La Magie du Tarot (839), 271p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Un carré magique: comment reconnaître son organisation",
+   "source": "Fredson Joseph (792)",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "ROSE-CROIX, EPISODE 8/8. L'hippocampe",
+   "source": "Revue Rose-Croix no. 141",
+   "notes": "Planned. Main video, 40-65s. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Ange du jour, Ange de l'heure, Ange du Zodiaque, Archange: quatre désignations",
+   "source": "Frater Eisenheim, Magie angélique (3176, 3178, 3179)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "ALEISTER CROWLEY, ÉPISODE 1/5. L'entrée dans la Golden Dawn en 1898",
+   "source": "Aleister Crowley, Golden Dawn (1898)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Ange du jour et Ange de l'heure: pourquoi distinguer",
+   "source": "Frater Eisenheim",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "22 tirages de tarot divinatoire",
+   "source": "Emmanuelle Iger, 22 tirages de tarot divinatoire (2252), 179p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Ange du jour et Ange de l'heure: pourquoi distinguer",
+   "source": "Frater Eisenheim",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "GOLDEN DAWN, ÉPISODE 1/5. La naissance de la Golden Dawn",
+   "source": "Ellic Howe, The Magicians of the Golden Dawn (1972), ch. 1",
+   "notes": "Épisode produit, vérifié et approuvé (série Golden Dawn). Facebook 12:30 le 2026-11-20; TikTok 20:30 le 2026-11-25.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "La Kabbale du Fâ: glyphes cosmiques et usages pratiques",
+   "source": "Jacques Aza, Introduction à la Kabbale du Fâ (1966), 172p",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "ALEISTER CROWLEY, ÉPISODE 2/5. Liber AL vel Legis, Le Caire, 8-10 avril 1904",
+   "source": "Aleister Crowley, Liber AL vel Legis (1904)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Les sceaux planétaires",
+   "source": "Sceaux planétaires",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Le grimoire de l'amour: sorts d'amour et rituels d'attraction",
+   "source": "Raphael Lightward, Le grimoire de l'amour (2534), 173p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Les sceaux planétaires",
+   "source": "Sceaux planétaires",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "GOLDEN DAWN, ÉPISODE 2/5. Les manuscrits chiffrés",
+   "source": "Ellic Howe, The Magicians of the Golden Dawn (1972), ch. 1",
+   "notes": "Épisode produit, vérifié et approuvé (série Golden Dawn). Facebook 12:30 le 2026-11-21; TikTok 20:30 le 2026-11-26.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Elemiah et Sitael: pourquoi un volume entier pour un seul ange",
+   "source": "Frater Eisenheim, Magie angélique (3176, 3178)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "ALEISTER CROWLEY, ÉPISODE 3/5. Thelema et la Volonté",
+   "source": "Aleister Crowley, Thelema",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Un ange, un volume: la structure d'Eisenheim",
+   "source": "Frater Eisenheim",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Le Grimoire de la Sorcière: croyances, rituels et pratiques",
+   "source": "Agathe Morel, Le Grimoire de la Sorcière (1085), 168p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Un ange, un volume: la structure d'Eisenheim",
+   "source": "Frater Eisenheim",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "GOLDEN DAWN, ÉPISODE 3/5. Les trois chefs et leurs fonctions",
+   "source": "Ellic Howe, The Magicians of the Golden Dawn (1972); R. A. Gilbert (1983); Ceremony of Installation of the Chiefs (1921)",
+   "notes": "Épisode produit, vérifié et approuvé (série Golden Dawn). Facebook 12:30 le 2026-11-22; TikTok 20:30 le 2026-11-27.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Le Psaume 4 et la chance: le nom JIHEJE",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "ALEISTER CROWLEY, ÉPISODE 4/5. Liber 777 et les correspondances",
+   "source": "Aleister Crowley, Liber 777",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Le Psaume 4, la chance et le nom JIHEJE",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "Q and A pré-enregistrée, semaine 3: anges et psaumes",
+   "source": "Frater Eisenheim; Gérard Viaud (2269)",
+   "notes": "Planned. Pre-recorded Q and A video, replaces the planned live. Extra slot.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Le guide complet de la sorcellerie selon Buckland",
+   "source": "Raymond Buckland (172), 173p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Le Psaume 4, la chance et le nom JIHEJE",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "GOLDEN DAWN, ÉPISODE 4/5. Néophyte 0=0",
+   "source": "Ellic Howe, The Magicians of the Golden Dawn (1972)",
+   "notes": "Épisode produit, vérifié et approuvé (série Golden Dawn). Facebook 12:30 le 2026-11-23; TikTok 20:30 le 2026-11-28.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "À l'intérieur d'un talisman: charger, consacrer, activer",
+   "source": "Kevin Fikri (1363); Gaia A.I. Sauge, Talismans Énergétiques (3046)",
+   "notes": "Planned. Sharing post, description only. NEEDS REPLACEMENT: Fikri (1363) fails the page rule (6-9 pages).",
+   "status": "need-replacement"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "ALEISTER CROWLEY, ÉPISODE 5/5. Le Tarot de Thoth avec Frieda Harris",
+   "source": "Aleister Crowley et Frieda Harris, Tarot de Thoth",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "La pierre philosophale",
+   "source": "Alchimie, la pierre philosophale",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "HAUTE MAGIE SACRÉE: théurgie, lumière divine et rituels initiatiques",
+   "source": "Ralph Coutard, HAUTE MAGIE SACRÉE (2529), 199p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "La pierre philosophale",
+   "source": "Alchimie, la pierre philosophale",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "GOLDEN DAWN, ÉPISODE 5/5. Les quatre éléments cachés dans les grades",
+   "source": "Ellic Howe, The Magicians of the Golden Dawn (1972); Israel Regardie, The Golden Dawn, vols 2-3",
+   "notes": "Épisode produit, vérifié et approuvé (série Golden Dawn). Facebook 12:30 le 2026-11-24; TikTok 20:30 le 2026-11-29.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Le tombeau de Vénus: la trappe de cuivre et la porte de fer",
+   "source": "Noces Chymiques, 5e jour",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "CORPUS HERMETICUM, ÉPISODE 1/5. Hermès Trismégiste",
+   "source": "Corpus Hermeticum, Hermès Trismégiste",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Sous le tombeau: une trappe de cuivre, une porte de fer",
+   "source": "Noces Chymiques, 5e jour",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Géomancie Populaire: simple et pratique",
+   "source": "Guy Michel Arend, Géomancie Populaire (717), 347p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Sous le tombeau: une trappe de cuivre, une porte de fer",
+   "source": "Noces Chymiques, 5e jour",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "ALEISTER CROWLEY, ÉPISODE 1/5. L'entrée dans la Golden Dawn en 1898",
+   "source": "Aleister Crowley, Golden Dawn (1898)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Les sept degrés du feu: du feu des bougies au feu blanc",
+   "source": "Roger Gascon, Magie des bougies (3234)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "CORPUS HERMETICUM, ÉPISODE 2/5. Poimandrès (Traité I)",
+   "source": "Corpus Hermeticum, Poimandrès (Traité I)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Le premier degré et les degrés suivants chez Gascon",
+   "source": "Roger Gascon (3234)",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Manuel d'Esotérisme",
+   "source": "Sepharial, Manuel d'Esotérisme (2177), 305p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Le premier degré et les degrés suivants chez Gascon",
+   "source": "Roger Gascon (3234)",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "ALEISTER CROWLEY, ÉPISODE 2/5. Liber AL vel Legis, Le Caire, 8-10 avril 1904",
+   "source": "Aleister Crowley, Liber AL vel Legis (1904)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Le Psaume 5 et la justice: le nom CHANANJAH",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "CORPUS HERMETICUM, ÉPISODE 3/5. Le cratère de l'intellect (Traité IV)",
+   "source": "Corpus Hermeticum, Traité IV",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Le Psaume 5, les affaires judiciaires et CHANANJAH",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "ÊTES-VOUS ALCHIMISTE ? De l'usage rituel au Grand Oeuvre",
+   "source": "ELION Kael (2537), 267p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Le Psaume 5, les affaires judiciaires et CHANANJAH",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "ALEISTER CROWLEY, ÉPISODE 3/5. Thelema et la Volonté",
+   "source": "Aleister Crowley, Thelema",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Une journée dans les livres des anges: ange du jour, ange de l'heure",
+   "source": "Frater Eisenheim, Magie angélique",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "CORPUS HERMETICUM, ÉPISODE 4/5. La régénération (Traité XIII)",
+   "source": "Corpus Hermeticum, Traité XIII",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Le Zohar: identifier le texte",
+   "source": "Le Zohar",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "La magie des rituels de la sorcière nordique",
+   "source": "Eloise Grillon (2512), 210p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Le Zohar: identifier le texte",
+   "source": "Le Zohar",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "ALEISTER CROWLEY, ÉPISODE 4/5. Liber 777 et les correspondances",
+   "source": "Aleister Crowley, Liber 777",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Plantes et parfums magiques: les herbes de la Saint-Jean",
+   "source": "Henri Frichet, Plantes et parfums magiques (2748)",
+   "notes": "Planned. Sharing post, description only. Full text pulled 2026-11-09.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "CORPUS HERMETICUM, ÉPISODE 5/5. La traduction latine de Marsile Ficin",
+   "source": "Corpus Hermeticum, traduction de Marsile Ficin",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Les herbes de la Saint-Jean selon Frichet",
+   "source": "Henri Frichet (2748)",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Sorcières, gardiennes de passage: un voyage initiatique",
+   "source": "Nathalie Baills-Barré (2519), 235p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Les herbes de la Saint-Jean selon Frichet",
+   "source": "Henri Frichet (2748)",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "ALEISTER CROWLEY, ÉPISODE 5/5. Le Tarot de Thoth avec Frieda Harris",
+   "source": "Aleister Crowley et Frieda Harris, Tarot de Thoth",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "La géomancie: lire les figures de la terre",
+   "source": "Guy Michel Arend, Géomancie Populaire (717), 347p",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "Les trois mondes d'Agrippa",
+   "source": "Henri-Corneille Agrippa, les trois mondes",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "TAROT DE MARSEILLE, ÉPISODE 1/5. Pourquoi 78 cartes",
+   "source": "Tarot de Marseille, 78 cartes",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "18:00",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "Q and A pré-enregistrée, semaine 4: géométrie des manuscrits",
+   "source": "Guy Michel Arend (717)",
+   "notes": "Planned. Pre-recorded Q and A video, replaces the planned live. Extra slot.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "LE MANUEL DU DESENVOUTEMENT",
+   "source": "Dominique Jongbloed et Helene Moreno (2221), 225p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "TAROT DE MARSEILLE, ÉPISODE 1/5. Pourquoi 78 cartes",
+   "source": "Tarot de Marseille, 78 cartes",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "CORPUS HERMETICUM, ÉPISODE 1/5. Hermès Trismégiste",
+   "source": "Corpus Hermeticum, Hermès Trismégiste",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Les noms cachés dans les psaumes: 151 psaumes, 151 Noms Saints",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "Les noms cachés dans les psaumes",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Main video, 40-65s. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "TAROT DE MARSEILLE, ÉPISODE 2/5. Le Mat, sans numéro",
+   "source": "Tarot de Marseille, Le Mat",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Découvrir la numérologie: la signification de votre nom",
+   "source": "Simon Lombardo, Découvrir la numérologie (2042), 159p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "TAROT DE MARSEILLE, ÉPISODE 2/5. Le Mat, sans numéro",
+   "source": "Tarot de Marseille, Le Mat",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "CORPUS HERMETICUM, ÉPISODE 2/5. Poimandrès (Traité I)",
+   "source": "Corpus Hermeticum, Poimandrès (Traité I)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "L'Évangile de Marie-Madeleine: le texte apocryphe du treizième apôtre",
+   "source": "Arcana Mundi, L'Évangile de Marie-Madeleine (1040), 127p",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "Le Baphomet d'Éliphas Lévi",
+   "source": "Éliphas Lévi, Baphomet",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "TAROT DE MARSEILLE, ÉPISODE 3/5. L'Arcane XIII, sans nom chez Conver",
+   "source": "Tarot de Marseille, Arcane XIII, édition Conver",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "L'Arbre et les Chiffres Sacrés: 36 clés sur la numérologie",
+   "source": "Anaëlle Gauthier, L'Arbre et les Chiffres Sacrés (2482), 136p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "TAROT DE MARSEILLE, ÉPISODE 3/5. L'Arcane XIII, sans nom chez Conver",
+   "source": "Tarot de Marseille, Arcane XIII, édition Conver",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "CORPUS HERMETICUM, ÉPISODE 3/5. Le cratère de l'intellect (Traité IV)",
+   "source": "Corpus Hermeticum, Traité IV",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Le pendule: apprendre à utiliser le pendule avec confiance",
+   "source": "Lucas Buis, 50 techniques pour apprendre la radiesthésie avec le pendule (457), 162p",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "Le pendule et la radiesthésie",
+   "source": "Lucas Buis (457)",
+   "notes": "Planned. Main video, 40-65s. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "TAROT DE MARSEILLE, ÉPISODE 4/5. Les quatre couleurs",
+   "source": "Tarot de Marseille, les quatre couleurs",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "L'Art des Runes Divinatoires",
+   "source": "Erik Runvald, L'Art des Runes Divinatoires (2576), 110p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "TAROT DE MARSEILLE, ÉPISODE 4/5. Les quatre couleurs",
+   "source": "Tarot de Marseille, les quatre couleurs",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "CORPUS HERMETICUM, ÉPISODE 4/5. La régénération (Traité XIII)",
+   "source": "Corpus Hermeticum, Traité XIII",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Les anges gardiens: un chemin vers la sérénité",
+   "source": "Émilie Sky, L'esprit des anges gardiens (846), 104p",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "Les trois principes de Paracelse",
+   "source": "Paracelse, les trois principes",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "TAROT DE MARSEILLE, ÉPISODE 5/5. Nicolas Conver, 1760",
+   "source": "Tarot de Marseille, Nicolas Conver (1760)",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "LES ÉVANGILES GNOSTIQUES: la sagesse secrète des écritures de Nag Hammadi",
+   "source": "Edward L. Harrow, LES ÉVANGILES GNOSTIQUES (893), 113p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "TAROT DE MARSEILLE, ÉPISODE 5/5. Nicolas Conver, 1760",
+   "source": "Tarot de Marseille, Nicolas Conver (1760)",
+   "notes": "Planned. Discovery, 15-30s. Broader topic, stands alone. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "CORPUS HERMETICUM, ÉPISODE 5/5. La traduction latine de Marsile Ficin",
+   "source": "Corpus Hermeticum, traduction de Marsile Ficin",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "06:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Archange Uriel: se connecter à la lumière divine",
+   "source": "Élora Saint Clair, Archange Uriel Guide de Lumière (2201), 114p",
+   "notes": "Planned. Sharing post, description only.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "12:30",
+   "platform": "Facebook",
+   "type": "Explanation long video",
+   "topic": "Archange Uriel",
+   "source": "Élora Saint Clair (2201)",
+   "notes": "Planned. Main video, 40-65s. Closing day of the calendar. Same video as TikTok 20:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "12:30",
+   "platform": "TikTok",
+   "type": "Short video",
+   "topic": "Archange Uriel: comprendre les messages des anges",
+   "source": "Élora Saint Clair (2201)",
+   "notes": "Planned. Discovery, 15-30s.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "19:00",
+   "platform": "Facebook",
+   "type": "Text",
+   "topic": "Rituels et Prières d'Invocation et d'Évocation",
+   "source": "ACKERMANN Steve, Rituels et Prières d'Invocation et d'Évocation (1100), 110p",
+   "notes": "Planned. Sales post, description only, no price.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "20:30",
+   "platform": "Facebook",
+   "type": "Short video",
+   "topic": "Archange Uriel: comprendre les messages des anges",
+   "source": "Élora Saint Clair (2201)",
+   "notes": "Planned. Discovery, 15-30s. Same discovery clip as TikTok 12:30.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "Les trois mondes d'Agrippa",
+   "source": "Henri-Corneille Agrippa, les trois mondes",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "Les noms cachés dans les psaumes",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Main video, 40-65s. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "Le Baphomet d'Éliphas Lévi",
+   "source": "Éliphas Lévi, Baphomet",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-13",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "Le pendule et la radiesthésie",
+   "source": "Lucas Buis (457)",
+   "notes": "Planned. Main video, 40-65s. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-14",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "Les trois principes de Paracelse",
+   "source": "Paracelse, les trois principes",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "20:30",
+   "platform": "TikTok",
+   "type": "Explanation long video",
+   "topic": "Archange Uriel",
+   "source": "Élora Saint Clair (2201)",
+   "notes": "Planned. Main video, 40-65s. Closing day. Same video as Facebook 12:30 Reel.",
+   "status": "planned"
+  }
+ ]
+}

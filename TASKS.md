@@ -1,5 +1,8 @@
 # Shared task list — Lucky and TheMAN
 
+> **SHARED CALENDAR — CALENDAR.json in this repo is the ONE calendar for Lucky and TheMAN** (Florence, 2026-11-13). Corrected 2026-11-13 per the Wise audit: the TikTok re-sequence of Nov 12 is applied (Papus Nov 12-16, Rose-Croix Nov 17-24, Golden Dawn Nov 25-29, Crowley Nov 30-Dec 4, Corpus Dec 5-9, singles Dec 10-15), Golden Dawn titles match the produced episodes, calendar extended to Dec 15 (189 entries). Series are independent per-platform chains; a short belongs to one specific main and gets its own date per platform. Both update CALENDAR.json like this file; no other calendar copy governs. Rose-Croix TikTok Ep 1-4 titles are placeholders for Lucky to confirm.
+
+
 One source of truth for who owns each task and its status. Both Muse
 accounts (Lucky and TheMAN) read this file and update it when a task is
 made, changes owner, or changes status. Rajo is the bridge when a task
