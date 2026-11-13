@@ -1,13 +1,13 @@
 {
  "title": "Chemin de Lumière — calendrier partagé Lucky × TheMAN (corrigé)",
  "range": "2026-11-11 to 2026-12-15",
- "source": "Calendrier unique partagé par Lucky et TheMAN. Corrigé le 2026-11-13 (audit Wise) : re-séquence TikTok du 12 nov. appliquée aux principaux (Papus 12-16 nov., Rose-Croix 17-24 nov., Golden Dawn 25-29 nov., Crowley 30 nov.-4 déc., Corpus 5-9 déc., unitaires 10-15 déc.), titres Golden Dawn alignés sur les épisodes produits, extension au 15 déc.",
+ "source": "Calendrier unique partagé par Lucky et TheMAN. Corrigé le 2026-11-13 (audit Wise) : re-séquence TikTok du 12 nov. appliquée. Mise à jour du 2026-11-13 (décision Florence) : Rose-Croix retirée de TikTok ; la Golden Dawn passe sur TikTok juste après Papus (17-21 nov.), puis Crowley 22-26 nov., Corpus 27 nov.-1 déc., unitaires 2-7 déc. ; les créneaux TikTok du 8 au 15 déc. sont libérés et à décider.",
  "totals": {
   "entries": 189,
   "facebook": 124,
   "tiktok": 65
  },
- "pattern": "Facebook text posts 06:00 and 19:00; Facebook explanation (main) video 12:30 and Facebook short 20:30; TikTok short 12:30 and TikTok explanation (main) video 20:30. Les séries sont des chaînes indépendantes par plateforme : l'ordre et la continuité comptent à l'intérieur de chaque plateforme, les dates peuvent différer entre Facebook et TikTok. Un court appartient à un principal précis et reçoit sa propre date par plateforme, rattachée au principal de cette plateforme. Les textes Facebook 06:00 et 19:00 suivent le calendrier Facebook. Saturdays add a pre-recorded Facebook Q&A at 18:00.",
+ "pattern": "Facebook text posts 06:00 and 19:00; Facebook explanation (main) video 12:30 and Facebook short 20:30; TikTok short 12:30 and TikTok explanation (main) video 20:30. Les séries sont des chaînes indépendantes par plateforme : l'ordre et la continuité comptent à l'intérieur de chaque plateforme, les dates peuvent différer entre Facebook et TikTok. Rose-Croix est diffusée sur Facebook uniquement (retirée de TikTok le 2026-11-13). Un court appartient à un principal précis et reçoit sa propre date par plateforme. Les textes Facebook 06:00 et 19:00 suivent le calendrier Facebook. Saturdays add a pre-recorded Facebook Q&A at 18:00.",
  "decisions": [
   "Sun 29 Nov 06:00 text still built in part on Kévin Fikri, Talismans et Amulettes magiques (book 1363), verified at only 6–9 pages, failing the 50-page minimum. It needs a replacement. The 29 Nov videos are no longer Fikri (main: Crowley Episode 5; short: the philosopher's stone).",
   "Georges Lahy, Les 72 noms du Nom (book 755) was cancelled from the 11 Nov 19:00 slot and is back to a draft, still needing a new day. A different Lahy book, Paroles de nombres, is planned for Wed 18 Nov at 19:00.",
@@ -41,7 +41,7 @@
    "type": "Short video",
    "topic": "Le vase de cuivre et l'arbre inconnu du tombeau de Vénus",
    "source": "Noces Chymiques, 5e jour",
-   "notes": "Non publié sur TikTok le 11 nov. (chaîne commencée le 12 nov.). Court apparié à Rose-Croix Ep 5, dont la date TikTok suit désormais la chaîne reprogrammée.",
+   "notes": "Non publié sur TikTok le 11 nov. (chaîne commencée le 12 nov.). Rose-Croix retirée de TikTok (décision Florence, 2026-11-13).",
    "status": "planned"
   },
   {
@@ -71,7 +71,7 @@
    "type": "Explanation long video",
    "topic": "ROSE-CROIX, EPISODE 5/8. Le tombeau triangulaire de Vénus",
    "source": "Noces Chymiques, 5e jour",
-   "notes": "Non publié sur TikTok : la chaîne TikTok n'a commencé que le 12 nov. Cet épisode Rose-Croix passe sur TikTok le 2026-11-21 dans la chaîne reprogrammée (17-24 nov.).",
+   "notes": "Non publié sur TikTok : la chaîne TikTok n'a commencé que le 12 nov. Rose-Croix est définitivement retirée de TikTok (décision Florence, 2026-11-13) ; la série reste sur Facebook uniquement.",
    "status": "planned"
   },
   {
@@ -439,9 +439,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "ROSE-CROIX, ÉPISODE 1/8. [titre à confirmer par Lucky]",
-   "source": "Revue Rose-Croix (chaîne TikTok Rose-Croix, 17-24 nov.)",
-   "notes": "Épisode Rose-Croix reprogrammé sur TikTok après la re-séquence du 12 nov. Titre exact à confirmer par Lucky.",
+   "topic": "GOLDEN DAWN, ÉPISODE 1/5. La naissance de la Golden Dawn",
+   "source": "Ellic Howe, The Magicians of the Golden Dawn (1972), ch. 1",
+   "notes": "Épisode produit, vérifié et approuvé (série Golden Dawn). TikTok 20:30 le 2026-11-17; Facebook 12:30 le 2026-11-20.",
    "status": "planned"
   },
   {
@@ -499,9 +499,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "ROSE-CROIX, ÉPISODE 2/8. [titre à confirmer par Lucky]",
-   "source": "Revue Rose-Croix (chaîne TikTok Rose-Croix, 17-24 nov.)",
-   "notes": "Épisode Rose-Croix reprogrammé sur TikTok après la re-séquence du 12 nov. Titre exact à confirmer par Lucky.",
+   "topic": "GOLDEN DAWN, ÉPISODE 2/5. Les manuscrits chiffrés",
+   "source": "Ellic Howe, The Magicians of the Golden Dawn (1972), ch. 1",
+   "notes": "Épisode produit, vérifié et approuvé (série Golden Dawn). TikTok 20:30 le 2026-11-18; Facebook 12:30 le 2026-11-21.",
    "status": "planned"
   },
   {
@@ -559,9 +559,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "ROSE-CROIX, ÉPISODE 3/8. [titre à confirmer par Lucky]",
-   "source": "Revue Rose-Croix (chaîne TikTok Rose-Croix, 17-24 nov.)",
-   "notes": "Épisode Rose-Croix reprogrammé sur TikTok après la re-séquence du 12 nov. Titre exact à confirmer par Lucky.",
+   "topic": "GOLDEN DAWN, ÉPISODE 3/5. Les trois chefs et leurs fonctions",
+   "source": "Ellic Howe, The Magicians of the Golden Dawn (1972); R. A. Gilbert (1983); Ceremony of Installation of the Chiefs (1921)",
+   "notes": "Épisode produit, vérifié et approuvé (série Golden Dawn). TikTok 20:30 le 2026-11-19; Facebook 12:30 le 2026-11-22.",
    "status": "planned"
   },
   {
@@ -619,9 +619,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "ROSE-CROIX, ÉPISODE 4/8. [titre à confirmer par Lucky]",
-   "source": "Revue Rose-Croix (chaîne TikTok Rose-Croix, 17-24 nov.)",
-   "notes": "Épisode Rose-Croix reprogrammé sur TikTok après la re-séquence du 12 nov. Titre exact à confirmer par Lucky.",
+   "topic": "GOLDEN DAWN, ÉPISODE 4/5. Néophyte 0=0",
+   "source": "Ellic Howe, The Magicians of the Golden Dawn (1972)",
+   "notes": "Épisode produit, vérifié et approuvé (série Golden Dawn). TikTok 20:30 le 2026-11-20; Facebook 12:30 le 2026-11-23.",
    "status": "planned"
   },
   {
@@ -689,9 +689,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "ROSE-CROIX, EPISODE 5/8. Le tombeau triangulaire de Vénus",
-   "source": "Noces Chymiques, 5e jour",
-   "notes": "Planned. Main video, 40-65s. Same video as Facebook 12:30 Reel.",
+   "topic": "GOLDEN DAWN, ÉPISODE 5/5. Les quatre éléments cachés dans les grades",
+   "source": "Ellic Howe, The Magicians of the Golden Dawn (1972); Israel Regardie, The Golden Dawn, vols 2-3",
+   "notes": "Épisode produit, vérifié et approuvé (série Golden Dawn). TikTok 20:30 le 2026-11-21; Facebook 12:30 le 2026-11-24.",
    "status": "planned"
   },
   {
@@ -749,9 +749,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "ROSE-CROIX, EPISODE 6/8. L'échelle attribuée par le sort",
-   "source": "Noces Chymiques, 6e jour",
-   "notes": "Planned. Main video, 40-65s. Same video as Facebook 12:30 Reel.",
+   "topic": "ALEISTER CROWLEY, ÉPISODE 1/5. L'entrée dans la Golden Dawn en 1898",
+   "source": "Aleister Crowley, Golden Dawn (1898)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
   {
@@ -809,9 +809,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "ROSE-CROIX, EPISODE 7/8. Anubis",
-   "source": "Revue Rose-Croix no. 141",
-   "notes": "Planned. Main video, 40-65s. Same video as Facebook 12:30 Reel.",
+   "topic": "ALEISTER CROWLEY, ÉPISODE 2/5. Liber AL vel Legis, Le Caire, 8-10 avril 1904",
+   "source": "Aleister Crowley, Liber AL vel Legis (1904)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
   {
@@ -869,9 +869,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "ROSE-CROIX, EPISODE 8/8. L'hippocampe",
-   "source": "Revue Rose-Croix no. 141",
-   "notes": "Planned. Main video, 40-65s. Same video as Facebook 12:30 Reel.",
+   "topic": "ALEISTER CROWLEY, ÉPISODE 3/5. Thelema et la Volonté",
+   "source": "Aleister Crowley, Thelema",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
   {
@@ -929,9 +929,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "GOLDEN DAWN, ÉPISODE 1/5. La naissance de la Golden Dawn",
-   "source": "Ellic Howe, The Magicians of the Golden Dawn (1972), ch. 1",
-   "notes": "Épisode produit, vérifié et approuvé (série Golden Dawn). Facebook 12:30 le 2026-11-20; TikTok 20:30 le 2026-11-25.",
+   "topic": "ALEISTER CROWLEY, ÉPISODE 4/5. Liber 777 et les correspondances",
+   "source": "Aleister Crowley, Liber 777",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
   {
@@ -989,9 +989,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "GOLDEN DAWN, ÉPISODE 2/5. Les manuscrits chiffrés",
-   "source": "Ellic Howe, The Magicians of the Golden Dawn (1972), ch. 1",
-   "notes": "Épisode produit, vérifié et approuvé (série Golden Dawn). Facebook 12:30 le 2026-11-21; TikTok 20:30 le 2026-11-26.",
+   "topic": "ALEISTER CROWLEY, ÉPISODE 5/5. Le Tarot de Thoth avec Frieda Harris",
+   "source": "Aleister Crowley et Frieda Harris, Tarot de Thoth",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
   {
@@ -1049,9 +1049,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "GOLDEN DAWN, ÉPISODE 3/5. Les trois chefs et leurs fonctions",
-   "source": "Ellic Howe, The Magicians of the Golden Dawn (1972); R. A. Gilbert (1983); Ceremony of Installation of the Chiefs (1921)",
-   "notes": "Épisode produit, vérifié et approuvé (série Golden Dawn). Facebook 12:30 le 2026-11-22; TikTok 20:30 le 2026-11-27.",
+   "topic": "CORPUS HERMETICUM, ÉPISODE 1/5. Hermès Trismégiste",
+   "source": "Corpus Hermeticum, Hermès Trismégiste",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
   {
@@ -1119,9 +1119,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "GOLDEN DAWN, ÉPISODE 4/5. Néophyte 0=0",
-   "source": "Ellic Howe, The Magicians of the Golden Dawn (1972)",
-   "notes": "Épisode produit, vérifié et approuvé (série Golden Dawn). Facebook 12:30 le 2026-11-23; TikTok 20:30 le 2026-11-28.",
+   "topic": "CORPUS HERMETICUM, ÉPISODE 2/5. Poimandrès (Traité I)",
+   "source": "Corpus Hermeticum, Poimandrès (Traité I)",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
   {
@@ -1179,9 +1179,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "GOLDEN DAWN, ÉPISODE 5/5. Les quatre éléments cachés dans les grades",
-   "source": "Ellic Howe, The Magicians of the Golden Dawn (1972); Israel Regardie, The Golden Dawn, vols 2-3",
-   "notes": "Épisode produit, vérifié et approuvé (série Golden Dawn). Facebook 12:30 le 2026-11-24; TikTok 20:30 le 2026-11-29.",
+   "topic": "CORPUS HERMETICUM, ÉPISODE 3/5. Le cratère de l'intellect (Traité IV)",
+   "source": "Corpus Hermeticum, Traité IV",
+   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
   {
@@ -1239,8 +1239,8 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "ALEISTER CROWLEY, ÉPISODE 1/5. L'entrée dans la Golden Dawn en 1898",
-   "source": "Aleister Crowley, Golden Dawn (1898)",
+   "topic": "CORPUS HERMETICUM, ÉPISODE 4/5. La régénération (Traité XIII)",
+   "source": "Corpus Hermeticum, Traité XIII",
    "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
@@ -1299,8 +1299,8 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "ALEISTER CROWLEY, ÉPISODE 2/5. Liber AL vel Legis, Le Caire, 8-10 avril 1904",
-   "source": "Aleister Crowley, Liber AL vel Legis (1904)",
+   "topic": "CORPUS HERMETICUM, ÉPISODE 5/5. La traduction latine de Marsile Ficin",
+   "source": "Corpus Hermeticum, traduction de Marsile Ficin",
    "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
@@ -1359,8 +1359,8 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "ALEISTER CROWLEY, ÉPISODE 3/5. Thelema et la Volonté",
-   "source": "Aleister Crowley, Thelema",
+   "topic": "Les trois mondes d'Agrippa",
+   "source": "Henri-Corneille Agrippa, les trois mondes",
    "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
@@ -1419,9 +1419,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "ALEISTER CROWLEY, ÉPISODE 4/5. Liber 777 et les correspondances",
-   "source": "Aleister Crowley, Liber 777",
-   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "topic": "Les noms cachés dans les psaumes",
+   "source": "Gérard Viaud (2269)",
+   "notes": "Planned. Main video, 40-65s. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
   {
@@ -1479,8 +1479,8 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "ALEISTER CROWLEY, ÉPISODE 5/5. Le Tarot de Thoth avec Frieda Harris",
-   "source": "Aleister Crowley et Frieda Harris, Tarot de Thoth",
+   "topic": "Le Baphomet d'Éliphas Lévi",
+   "source": "Éliphas Lévi, Baphomet",
    "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
@@ -1549,9 +1549,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "CORPUS HERMETICUM, ÉPISODE 1/5. Hermès Trismégiste",
-   "source": "Corpus Hermeticum, Hermès Trismégiste",
-   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "topic": "Le pendule et la radiesthésie",
+   "source": "Lucas Buis (457)",
+   "notes": "Planned. Main video, 40-65s. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
   {
@@ -1609,8 +1609,8 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "CORPUS HERMETICUM, ÉPISODE 2/5. Poimandrès (Traité I)",
-   "source": "Corpus Hermeticum, Poimandrès (Traité I)",
+   "topic": "Les trois principes de Paracelse",
+   "source": "Paracelse, les trois principes",
    "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
@@ -1669,9 +1669,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "CORPUS HERMETICUM, ÉPISODE 3/5. Le cratère de l'intellect (Traité IV)",
-   "source": "Corpus Hermeticum, Traité IV",
-   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "topic": "Archange Uriel",
+   "source": "Élora Saint Clair (2201)",
+   "notes": "Planned. Main video, 40-65s. Closing day. Same video as Facebook 12:30 Reel.",
    "status": "planned"
   },
   {
@@ -1729,9 +1729,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "CORPUS HERMETICUM, ÉPISODE 4/5. La régénération (Traité XIII)",
-   "source": "Corpus Hermeticum, Traité XIII",
-   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "topic": "[Créneau libéré — contenu à décider]",
+   "source": "Décision Florence du 2026-11-13 : Rose-Croix retirée de TikTok, la chaîne a avancé de 8 jours.",
+   "notes": "Créneau principal TikTok sans contenu affecté. À décider par Rajo/Florence.",
    "status": "planned"
   },
   {
@@ -1789,9 +1789,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "CORPUS HERMETICUM, ÉPISODE 5/5. La traduction latine de Marsile Ficin",
-   "source": "Corpus Hermeticum, traduction de Marsile Ficin",
-   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "topic": "[Créneau libéré — contenu à décider]",
+   "source": "Décision Florence du 2026-11-13 : Rose-Croix retirée de TikTok, la chaîne a avancé de 8 jours.",
+   "notes": "Créneau principal TikTok sans contenu affecté. À décider par Rajo/Florence.",
    "status": "planned"
   },
   {
@@ -1849,9 +1849,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "Les trois mondes d'Agrippa",
-   "source": "Henri-Corneille Agrippa, les trois mondes",
-   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "topic": "[Créneau libéré — contenu à décider]",
+   "source": "Décision Florence du 2026-11-13 : Rose-Croix retirée de TikTok, la chaîne a avancé de 8 jours.",
+   "notes": "Créneau principal TikTok sans contenu affecté. À décider par Rajo/Florence.",
    "status": "planned"
   },
   {
@@ -1859,9 +1859,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "Les noms cachés dans les psaumes",
-   "source": "Gérard Viaud (2269)",
-   "notes": "Planned. Main video, 40-65s. Same video as Facebook 12:30 Reel.",
+   "topic": "[Créneau libéré — contenu à décider]",
+   "source": "Décision Florence du 2026-11-13 : Rose-Croix retirée de TikTok, la chaîne a avancé de 8 jours.",
+   "notes": "Créneau principal TikTok sans contenu affecté. À décider par Rajo/Florence.",
    "status": "planned"
   },
   {
@@ -1869,9 +1869,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "Le Baphomet d'Éliphas Lévi",
-   "source": "Éliphas Lévi, Baphomet",
-   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "topic": "[Créneau libéré — contenu à décider]",
+   "source": "Décision Florence du 2026-11-13 : Rose-Croix retirée de TikTok, la chaîne a avancé de 8 jours.",
+   "notes": "Créneau principal TikTok sans contenu affecté. À décider par Rajo/Florence.",
    "status": "planned"
   },
   {
@@ -1879,9 +1879,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "Le pendule et la radiesthésie",
-   "source": "Lucas Buis (457)",
-   "notes": "Planned. Main video, 40-65s. Same video as Facebook 12:30 Reel.",
+   "topic": "[Créneau libéré — contenu à décider]",
+   "source": "Décision Florence du 2026-11-13 : Rose-Croix retirée de TikTok, la chaîne a avancé de 8 jours.",
+   "notes": "Créneau principal TikTok sans contenu affecté. À décider par Rajo/Florence.",
    "status": "planned"
   },
   {
@@ -1889,9 +1889,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "Les trois principes de Paracelse",
-   "source": "Paracelse, les trois principes",
-   "notes": "Planned. Main video, 40-65s. Series or single broader topic, stands alone. Same video as Facebook 12:30 Reel.",
+   "topic": "[Créneau libéré — contenu à décider]",
+   "source": "Décision Florence du 2026-11-13 : Rose-Croix retirée de TikTok, la chaîne a avancé de 8 jours.",
+   "notes": "Créneau principal TikTok sans contenu affecté. À décider par Rajo/Florence.",
    "status": "planned"
   },
   {
@@ -1899,9 +1899,9 @@
    "time": "20:30",
    "platform": "TikTok",
    "type": "Explanation long video",
-   "topic": "Archange Uriel",
-   "source": "Élora Saint Clair (2201)",
-   "notes": "Planned. Main video, 40-65s. Closing day. Same video as Facebook 12:30 Reel.",
+   "topic": "[Créneau libéré — contenu à décider]",
+   "source": "Décision Florence du 2026-11-13 : Rose-Croix retirée de TikTok, la chaîne a avancé de 8 jours.",
+   "notes": "Créneau principal TikTok sans contenu affecté. À décider par Rajo/Florence.",
    "status": "planned"
   }
  ]
