@@ -24,11 +24,20 @@ Do not use any other caption timing method.
    Within a chunk, the highlight moves to each word as it is spoken,
    using the whisper word times.
 5. Caption style (approved): Noto Sans Black, ALL CAPS, white bold,
-   black outline, bottom of frame, current word in a RED box (#FF0000),
+   black outline, current word in a RED box (#FF0000),
    font size 56, max 4 words per chunk.
+6. Caption POSITION (changed 2026-11-14, Rajo's decision): captions sit
+   at CAP_Y = 1320 in the 1080x1920 frame (text y1320-1376, red
+   highlight box y1308-1388). NOT at the bottom of the frame: the old
+   bottom position (CAP_Y = H-210 = 1710) collides with the
+   Facebook/TikTok overlay (Page name, post caption, action buttons)
+   and becomes unreadable. Proven clear on the Leprince Video 1 v6
+   rebuild (Lucky, 2026-11-14).
 
 ## Never do this
 
+- Never place captions at the old bottom position (CAP_Y = H-210 =
+  1710). Since 2026-11-14 the only approved position is CAP_Y = 1320.
 - Never estimate caption timing from the text (words per second,
   dividing the duration evenly, guessing). The narration has pauses
   between sentences; estimation always drifts.
