@@ -531,6 +531,168 @@ was taken; the tool itself was not adopted.
 - Entertainment-niche formats (stadium cam, anime filmset,
   absurdity prompt packs, celebrity likenesses): not adopted.
 
+## Reconciled with Lucky's full-course read (2026-11-16)
+
+Lucky read the same library independently and merged his rules
+into TIA-TEK-MG-CREATION-RULES-from-Lucky.md (Sections 1-23, kept
+in the project files with his master index). The two reads agree
+on the core. The following are Lucky's additions, adopted here:
+
+### Tia-Tek MG standing rules (Lucky's Section 10 — apply to any
+Tia-Tek work TheMAN produces)
+- Page only, never the personal account or personal Messenger.
+  Exact post/reply text approved before anything goes live.
+- Malagasy first in all Page content; French only for
+  tech/commerce words. Malagasy dialogue used verbatim — never
+  paraphrased, translated, added to, or removed from.
+- The TIA-TEK MG logo on every visual, small, bottom-right.
+- Voice: hook first, personal proof, honest caveat, one
+  comment-gated CTA ("soraty 'TIA-TEK MG'", "soraty 'PROMPT'").
+  Time promises and friction removers (TSY MILA VPN, TSY MANDOHA
+  VOLA) where true. Dual currency ($ / Ariary) on offers.
+- Real tested claims only: "nandramako mihintsy" means actually
+  tested. Never fake phone-screen steps or present an
+  AI-simulated screen as a real tutorial; real steps need Rajo's
+  real screen recording, and voiceover stays Rajo's own voice
+  (Malagasy AI voice is untested).
+- Likeness bar (video): exact identity preservation from Rajo's
+  photo — same face, hairstyle, hairline, age; no
+  beautification, reshaping, morphing, or drift. Lock likeness
+  in a still first, then animate conservatively.
+- Verify before asserting (comment authorship, tool limits):
+  check the data first; if it is missing, say so.
+
+### Craft additions adopted from Lucky's merge
+- SKIN CAP: cap imperfections explicitly in prompts — "clear
+  skin with subtle texture and a few faint freckles, no acne, no
+  visible pimples". Open-ended "natural imperfections" language
+  makes the model exaggerate spots (learned from a failed
+  still).
+- REALISM LOCK suffix (candid/phone-realism shots only), verbatim:
+  "Authentic everyday photorealism, candid and unposed, natural
+  ambient light appropriate to the setting, realistic skin
+  texture and material texture, muted true-to-life colours, low
+  contrast, subtle softness, slight phone-camera or real-camera
+  imperfection, believable exposure, lived-in details, natural
+  body language, ordinary real-life styling, imperfect
+  composition, no glamour retouching, no beauty filter, no
+  cinematic colour grading, no hyper-polished AI look." The
+  no-grading clause does NOT apply to graded documentary work.
+- NEVER put "no text / no logo" in negatives when the image
+  must carry real text — a real book cover MUST carry its text.
+  LABEL-TEXT RULE: include the exact title/author text in the
+  prompt when rendering a cover, or the model guesses.
+- Text rendered inside a generated image must be LARGE, BOLD
+  and minimal — AI text morphs when small or dense. No fine
+  print in generated frames.
+- CHARACTER SHEETS: Lucky's lock is a seven-panel sheet (front
+  full-body, three-quarter close-up, back view, side profile,
+  extreme close-up, two macro details) on a plain background
+  with the same style block in every panel. For SHARED
+  characters, both agents reference the SAME sheet — the sheet
+  is the lock, whoever generated it.
+- PRODUCTION BLUEPRINT step: script → timed production
+  blueprint (shot-by-shot list, voiceover vs visual per shot,
+  B-roll, props, exactly where the book appears) → generation.
+  No clip is generated until the blueprint exists. (Our segment
+  tables are this step; it is now named and mandatory.)
+- Timestamped skeleton for main videos: 0-3s hook, 3-10s
+  problem, 10-25s book/mechanism, 25-40s proof, final beat a
+  statement, never a question. Boundaries adapt to the real
+  narration length; the ORDER is fixed.
+- NAME THE FRAMEWORK in the build note: one framework for the
+  hook, one for the proof. EDUCATOR (T.E.A.C.H.) is the default
+  for morning teaching posts. DEMO DROP: show the book WORKING
+  (real pages, the diagram, the steps) — a cover is a claim, a
+  shown page is proof. CLIFFHANGER: open a loop early, close it
+  only at the payoff. GRIT filter: if a video feels too
+  polished, strip one layer of polish rather than adding more.
+- ONE POST, ONE DESIRE: each piece maps to exactly one desire
+  (health/protection, attraction, status, belonging, control,
+  mystery/knowledge); name it in the draft note. Match the ask
+  to the audience's awareness level — a cold teaching audience
+  gets no ask at all.
+- Write 5 hooks per video (we already produce 2 alternates;
+  raise to a bank of candidates, pick the strongest against the
+  hook test: curiosity, emotion, or promised value — else cut).
+- SETTING LOCK: continuity extends beyond the face — same room,
+  same lamp, same clothes, same camera height across an
+  episode's shots. A shot that restyles the setting is
+  regenerated, not kept.
+- Gestures land on the SPECIFIC WORD spoken (a hand opens on
+  "ouvre"); listening faces must be alive (eyebrows lift, a
+  small smile forms) — never a blank listening face.
+- The wide shot is a payoff in the MIDDLE, at the emotional
+  peak — never an establishing opener. Open tight, earn the
+  wide.
+- Transitions: hard cuts on action beats; match-cut a physical
+  object between scenes; blur/dissolve transitions are banned.
+- One visual metaphor carried through the whole video, visibly
+  changing state by the payoff (fog that clears, a flame that
+  steadies). Memory/origin scenes get a distinct grade from
+  present-day scenes, switched by hard cut.
+- The book reveal comes AFTER the problem is fully established,
+  never in the first seconds.
+- Silence is a beat: one deliberate silent beat at the payoff,
+  at most once per video.
+- B-roll cut density is chosen per section in the blueprint
+  (fast = a cut every 1-2s; normal = 5-6 shots of 2-3s) and
+  held; never drift inside a section. Each camera cut needs
+  ~3 seconds minimum to land.
+- End frames must feel like a natural continuation of the start
+  frame; frames too different make the model morph. Never put
+  important dialogue at the very end of a clip (models glitch
+  late).
+- ANGLES for coverage: from ONE approved still, generate
+  different-angle shots of the same scene for coverage instead
+  of unrelated new images per shot (lighting block identical).
+  STORYBOARD pass: once scene 1's still is locked, Wise drafts
+  scenes 2-N as continuations of it. Angles = same moment, new
+  camera; storyboard = story continues.
+- VERSION DISCIPLINE: keep all versions of a shot together in
+  the episode folder; name the selected still clearly
+  (*_SELECTED or a selected/ subfolder); build only from the
+  selected file. Never let an unselected version leak into the
+  montage.
+- MASTER PROMPT BLOCK: one saved text block per series/scene
+  (character + lighting + style) in the episode folder, pasted
+  into every generation brief; change it once, downstream
+  follows. Never retype descriptions per shot.
+- BATCH THE VIDEO STEP: approve ALL stills of an episode before
+  animating ANY. Preparing video prompts early is fine; running
+  them waits for the stills gate.
+- FLOW REGENERATION RULE (Lucky): after a bad clip, always a
+  FRESH Ingredients-to-Video creation — never regenerate from
+  the faulty clip's edit page.
+- Pixabay is a free, copyright-free source for music and SFX;
+  fits the no-new-subscriptions rule.
+- Cover-frame/thumbnail style is locked per series so the
+  profile grid reads as a series. No copyrighted sounds on
+  videos over 1 minute (ours run 40-65s; keep cleared/original
+  audio only).
+- OPEN TEST (not a rule): feed the finished Tia-tek narration
+  MP3 as an audio reference into Flow for talking scenes —
+  reported to work for non-English dialogue. Test before
+  relying on it.
+- Speeding slow voice audio to 1.1-1.2x is CONDITIONAL ONLY:
+  captions must be re-derived from the sped-up audio (re-run
+  whisper) or every caption timing breaks.
+- Further rejections confirmed (Lucky's Section 23, matching
+  ours): CapCut auto-captions (CAPTION-METHOD stands), pitch
+  changes to dodge detection, premade influencer faces,
+  celebrity photo references, "always use the latest model",
+  MagicFlow auto-concept (the GATE is adopted, the auto-concept
+  is not), speed as a goal over quality gates.
+
+### One wording difference, flagged
+Lucky frames the Facebook 19:00 text slot with the BRIDGE
+framework and calls it the "evening sales post". His own doc
+states the frameworks were filtered through the no-salesy-voice
+rule, so this is vocabulary, not a rule change: the evening post
+speaks to a warmer, product-aware audience, the book named only
+in the gain step, no hard CTA, no urgency, Rajo's exact-text
+approval unchanged.
+
 ## Project overrides (unchanged, win on any conflict)
 
 - Rajo approves the exact text of every post and every finished video
