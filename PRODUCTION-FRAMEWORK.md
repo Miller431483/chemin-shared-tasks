@@ -198,10 +198,14 @@ Studio onto our stack.
     "ingredients" where Flow is usable).
 - Credits and navigation: test ideas with fewer outputs or a faster
   model before committing credits to high-quality runs. Project
-  reality: Gemini web has no Veo model/quality selector and Flow
-  does not run in our browser, so our credit discipline is the
-  account rotation plus the Gemini-first + pause rule; where a
-  cheaper test generation exists, use it before the final render.
+  reality: Gemini web has no Veo model/quality selector; Flow DOES
+  have it, and Flow work runs in FLORENCE'S OWN browser (his
+  instruction, 2026-11-16) — the cloud browser cannot run Flow, his
+  can. So Flow steps (Veo quality selection, scene builder,
+  ingredients) are done through his browser when it is available;
+  otherwise the credit discipline is the account rotation plus the
+  Gemini-first + pause rule, and where a cheaper test generation
+  exists, use it before the final render.
 
 ## Project overrides (unchanged, win on any conflict)
 
