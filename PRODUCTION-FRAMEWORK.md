@@ -207,6 +207,95 @@ Studio onto our stack.
   Gemini-first + pause rule, and where a cheaper test generation
   exists, use it before the final render.
 
+## Cinematography Rules (added by Florence, 2026-11-16)
+
+From Florence's note (Granola: "Cinematography fundamentals: depth,
+framing, and lighting for AI image generation"). These deepen the
+AVB Camera and Lighting elements; every image and video prompt is
+built with them.
+
+### Building depth with layers
+- AI generates flat images by default: subject pasted onto
+  background like a sticker. Every strong frame has 3 layers:
+  foreground, midground, background.
+  - Background: the world behind the subject (street, sky, room).
+  - Midground: where the subject lives.
+  - Foreground: the most forgotten layer, closest to the camera
+    (grass, smoke, leaves, a railing).
+- Adding a foreground is the fastest way to make any AI shot look
+  cinematic: out-of-focus elements close to the lens make the eye
+  travel front to back.
+- Atmosphere is the second depth tool: haze, fog, mist, dust,
+  smoke. Distant things get lighter and softer, which the brain
+  reads as space. Light haze pushes backgrounds back; low fog
+  physically separates layers; god rays make air visible.
+- Key question when a shot feels flat: what's in the foreground,
+  and what's in the air?
+
+### Composition and subject placement
+- Dead center is the most static placement: reads like a passport
+  photo.
+- Rule of thirds: divide the frame into a 3x3 grid, place the
+  subject on a line or intersection. Off-center subjects create
+  space for the eye to travel into.
+- Leading lines pull the viewer's eye toward the subject: roads,
+  walls, fences, light beams.
+- Lead room: leave space in the direction the subject is looking
+  or moving. Crowding the front of the frame makes the shot feel
+  trapped.
+- Center framing is still valid when chosen deliberately: hero
+  shots, raw symmetry, direct lens stare.
+
+### Lighting logic
+- "Cinematic lighting" in a prompt means nothing; name the actual
+  source. Motivated light: a window, sun, lamp, fire, headlights,
+  light through a doorway. The source doesn't need to be in frame;
+  shadows reveal its direction.
+- Hard vs. soft light: hard (small source) = strong defined
+  shadows, dramatic and tense; soft (large/diffused source) =
+  smooth transitions, calm and expensive.
+- Direction changes mood: side light is the most cinematic, carves
+  shape and texture; backlight separates subject from background,
+  good for silhouettes; front light flattens, used for beauty and
+  fashion.
+- Color temperature sets emotion: warm (gold/orange) = intimate,
+  alive, nostalgic; cool (blue/gray) = distant, lonely, modern;
+  green tint = unease, artificial, something is wrong. Warm
+  subject against cool background is the strongest color contrast.
+- Material reaction makes shots feel physical: describe how light
+  behaves on each surface (metal highlights, glossy reflections,
+  fabric absorbing light). Catchlight in the eyes is small but
+  critical: without it, eyes look dead.
+- Consistency across shots: lock source, direction, temperature,
+  and shadow depth in a prompt block and copy it across every
+  shot of the sequence.
+
+### Camera angle, shot size, and lens
+- Angle answers: where is the viewer standing? Eye level = honest
+  baseline; low angle = powerful, heroic; high angle = vulnerable,
+  exposed; Dutch angle = diagonal, instantly tense and unstable;
+  profile = distant, locked in thought; back shot = mystery;
+  POV = viewer becomes the character.
+- Shot size answers: what does the viewer need to read right now?
+  Extreme wide (world is the subject, person tiny), wide/full
+  (body, posture, silhouette, outfit), medium (most versatile,
+  natural conversation distance, monotonous alone), medium
+  close-up (shift from behavior to reaction), close-up (eyes,
+  breath, smallest change), extreme close-up (one detail, maximum
+  emphasis). A close-up only hits hard after holding the viewer at
+  a distance.
+- Lens answers: how does the space feel? Wide 16-24mm exaggerates
+  depth, viewer feels inside the scene; normal 40-50mm calm, no
+  optical trick; 85mm separates subject from background and pulls
+  the background closer; 200mm+ compresses space, stacks distant
+  planes. Focal length controls field of view; camera position
+  controls perspective. Shallow depth of field (low f-number)
+  requires distance between subject and background to work.
+- Camera bodies carry distinct character: ARRI Alexa (all-round
+  drama benchmark), Sony Venice 2 (low light and night), RED
+  V-Raptor (sharp modern digital, action), Hasselblad medium
+  format (luxury commercial, products).
+
 ## Project overrides (unchanged, win on any conflict)
 
 - Rajo approves the exact text of every post and every finished video
