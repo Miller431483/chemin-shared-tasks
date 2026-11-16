@@ -296,6 +296,241 @@ built with them.
   V-Raptor (sharp modern digital, action), Hasselblad medium
   format (luxury commercial, products).
 
+## Course Library Rules (added 2026-11-16, from the full Drive library)
+
+The whole AVB course library (143 PDFs, ~172,000 words, nine
+modules) was read and extracted; the full attributed extraction is
+in COURSE-LIBRARY-EXTRACTION.md in the project files. What follows
+is everything that ADDS to or SHARPENS the rules above. Where the
+course assumes tools we do not use (Kling, Seedance, HeyGen,
+Midjourney, PromptWise Studio), only the transferable technique
+was taken; the tool itself was not adopted.
+
+### Briefing Wise (the chat step, systematised)
+- Every brief to Wise follows the Simple Formula: Context, Goal,
+  Details, Output Format. Master shape: "I'm working on [what]. My
+  goal is [outcome]. The audience is [who]. The style should be
+  [tone/mood/visual/pacing/realism]. I want to avoid [negatives].
+  Help me by [exact task]. Format the answer as [script / prompt /
+  table / checklist / JSON]."
+- Follow-up commands are standard tools, not afterthoughts: "make
+  the hook stronger", "cut this by 30%", "explain what is weak
+  about this", "give me 5 stronger versions", "convert to JSON".
+- Diagnose with the chat using problem→question prompts (fake
+  look, boring idea, robotic script, weird motion) instead of
+  regenerating blindly — blind regeneration is how credits die.
+- Hook Writer discipline: hooks are produced in named categories
+  (curiosity, pain-point, contrarian, direct benefit, story,
+  beginner-friendly, premium/authority). BANNED generic hooks:
+  "You need to see this", "This changed everything", "Nobody is
+  talking about this", "This is a game changer", "I wish I knew
+  this sooner" — and their French equivalents.
+- Script Doctor check on every narration before production: hook
+  strong enough? where does it lose energy? what sounds robotic?
+  what is too generic? what should be cut?
+
+### Stills: QC gate, realism system, model split
+- Five-question QC gate on EVERY still before it may animate: (1)
+  consistent with the other scenes? (2) lighting matches the mood?
+  (3) person/product believable? (4) aspect ratio correct? (5)
+  real, or obvious AI gloss? Any "no" = fix or regenerate; never
+  proceed on a failed still.
+- Realism lock block, appended to still prompts when realism
+  matters: candid, natural ambient light, visible skin texture,
+  muted colour, slight imperfection, no glamour retouch, no beauty
+  filter. Standard negatives: no cartoon, no CGI/3D render look,
+  no plastic skin. With GPT Image, end the prompt with
+  "photorealism".
+- The three avatar killers, checked on every character still:
+  plastic airbrushed skin; studio lighting where it couldn't
+  exist; perfect staged camera/background. Most real social
+  content is phone-shot; "shot on iPhone, candid" breaks the
+  staged look.
+- Model split by job: GPT Image 2.0 for anything text-critical
+  (labels, character sheets) and surgical edits; NanoBanana Pro
+  (Gemini) for fast realistic iteration. Same prompt in both when
+  unsure; keep the winner per job. Midjourney not adopted.
+- Character consistency pipeline: pick the believable base face
+  first; the reference must be clean (sharp, natural light) — a
+  bad reference means bad consistency almost every time. Build a
+  six-angle turnaround sheet from it (generated 16:9 even for
+  vertical content — a deliberate exception, the sheet is a tool,
+  not a post). New scenes prompt "same person + location + outfit
+  + camera + lighting + expression + realism details".
+- Multi-object scenes: assemble and LABEL the composite in Canva
+  first, then reference the labels — loose multi-object uploads
+  into Gemini fail most of the time. Gemini-app stills carry a
+  bottom-right watermark; remove with Canva Magic Edit when it
+  shows.
+- Canva pre-animation pass on stills: BG Remover, Magic Eraser
+  for single small flaws instead of regenerating, Magic Expand
+  for format fixes; normalise warmth/brightness across a sequence
+  so the video does not inherit mismatched worlds.
+- UPSCALE BEFORE ANIMATING, ALWAYS: 2x (1K→2K) or 4x (1K→4K)
+  with a non-repainting upscaler (NanoBanana Pro / GPT Image
+  2.0). More pixels in the still = visibly clearer video.
+  Skipping it on a hero image is a false economy.
+
+### Prompt weighting and locked blocks
+- The end of a prompt is weighted heavily: colour grade and
+  style keywords go LAST, after the scene. Full formula: [scene]
+  + [lighting source] + [grade style] + [film reference].
+- Lighting block technique: the lighting block (source, lit
+  side, temperature, shadow depth) is written once, placed at
+  the end of the prompt, and copied VERBATIM into every shot of
+  a sequence; change only action and shot size between shots.
+  A broken shot is regenerated with the same block.
+- Locked character/setting/style blocks are pasted verbatim into
+  every shot prompt of a sequence, with the full negative list —
+  never paraphrased (paraphrase drifts identity and style).
+- Aperture needs distance: a low f-number against a wall stays
+  sharp; describe the subject–background DISTANCE, not only the
+  f-number. Focal length controls field of view; camera POSITION
+  controls perspective (a wide lens does not distort a face —
+  pushing the camera close does).
+- Kelvin numbers when precision helps: 5600K daylight, 2800K
+  warm sconces; mixed temperatures stated per source.
+
+### Video generation
+- ONE-MOVE RULE: one main subject movement + one main camera
+  movement + one clear scene per clip. Overcrowded motion is the
+  top cause of glitching and morphing.
+- The video prompt starts with the camera move, and the source
+  image is designed to complement it. Never re-describe what is
+  visible in the start frame; prompt only what should HAPPEN.
+  Four motion components: camera, subject, environment, lighting
+  change.
+- Timed-sequence prompting for complex clips: second-by-second
+  blocks, each with its own action (and SFX note), with the
+  locked style/camera/character blocks repeated — the technique
+  behind the Live Filmset format.
+- Scene chaining: export a clip's last frame and use it as the
+  next clip's start frame to build long sequences (Flow: a
+  second connected image becomes the end frame automatically).
+- If Veo native audio is ever used: the voice is a locked asset
+  — one verbatim voice block (accent + tone + pacing +
+  personality) pasted into every prompt; always specify an
+  accent (few voices per accent forces consistency); keep lines
+  short; punctuation and "..." are delivery direction. Our
+  default remains muting Veo audio and using ElevenLabs.
+- Dialogue timing: AI dialogue defaults about 2x too slow;
+  specify roughly 4.2 words per second, and word-count any
+  spoken text to the clip's duration (too many words = sped-up
+  speech, too few = gibberish). This is also why our narrations
+  are written to length, not trimmed to fit afterwards.
+- AI video editing (in-footage fixes): the risk is
+  over-regeneration — always compare against the original clip
+  (face, hands, lips, background drift); one change at a time.
+
+### Sound (ElevenLabs discipline)
+- Sound is added LAST, after the visual edit. Voice =
+  information, music = emotion, SFX = physicality.
+- SFX generation: ~4-5 seconds per effect, generate 4 samples,
+  keep the best; layer effects with distance-based volumes
+  (close sounds louder, far sounds quieter).
+- Ambient audio matched to the scene (footsteps, rain, crowd,
+  fabric) is part of the finish, not an optional extra.
+
+### Edit and export
+- Realism pass on finished clips, in order: lower contrast
+  heavily → saturation slightly down → small highlight lift →
+  camera shake turned down until barely noticeable.
+- Export for TikTok: 1080p at 30fps maximum. 4K/60 exports get
+  downgraded by TikTok (to 720p) and look worse than a clean
+  1080p30 upload. (YouTube may take 4K/60; not our channel.)
+- Text and captions are added in the EDIT, never generated by
+  the video model.
+
+### Scripts and hooks (educational content)
+- T.E.A.C.H., the authority-video structure: Teach something
+  genuinely valuable first → Expand with mechanism and depth →
+  Align with the audience → Credentialize (specifics: numbers,
+  names, citations) → Hand off the action as the natural next
+  step. It maps onto our promise/build/payoff: the payoff IS the
+  credentializing specificity.
+- Gradualization: never open with a claim the audience does not
+  yet believe; start from a belief they hold, stack agreements,
+  deliver the big claim as the obvious conclusion. Companions:
+  one desire per video; mechanization (show HOW so they believe
+  THAT); redefinition (kill an objection by changing the
+  comparison set).
+- Hook timing: 1-2 seconds to survive the scroll; the hook must
+  land inside the narration's FIRST LINE, not as a separate
+  cold-open. Odd-numbered countdowns (3/5/7) outperform even
+  ones when a list structure is used.
+- Testing is purposeful variation: name the variable being
+  tested (hook, format, style), the metric that proves it, and
+  what changes next. Never bet a series on one version.
+- Variation math for reuse: one concept × 3 hooks × 2 pacing ×
+  2 tones = 12 variants; regenerate surgically (a new hook means
+  regenerating only the opening, not the whole piece).
+
+### Retention and posting mechanics (Social module)
+- Watch time is the #1 metric; if viewers leave at 2 seconds,
+  the NEXT video gets fixed, not this one reposted.
+- First clip of a video ≤ 3 seconds; a 5-second wait for a
+  scene change loses the viewer. On-screen text = reading =
+  still watching: our burned-in captions already buy retention.
+- The first 1-2 hours after posting decide the push. All
+  comment work in that window is LUCKY'S under the work split;
+  TheMAN never replies.
+- Max 4 hashtags. Post at the same time daily (our calendar
+  already fixes the slots). Tick the AI-content label on
+  upload: not required for reach, but the safe side.
+- Never delete a post (set it private instead); never use
+  Promote. The algorithm counts activity, not sentiment —
+  corrections and debate push as hard as praise.
+- Transferable formats: POV history (the viewer's hands in
+  frame; the course's own examples are pyramid-building and a
+  witch trial) and personifying an abstract concept as a
+  character both fit occult-history subjects directly.
+
+### Flow practice (Advanced Flows module, mapped to Google Flow)
+- Build pipelines, not one-offs: connect steps once (image →
+  video, the image becomes the start frame automatically), save
+  working setups as reusable project templates.
+- Run nodes one at a time while testing so the still is approved
+  before video cost is committed — the same gate as our stills
+  rule. Flow video steps deliberately do not auto-run.
+- Reference mechanics: up to 8 image references into one image
+  generation (character reference + product/object reference can
+  be combined into a third); re-running stacks versions in a
+  carousel instead of overwriting — the selected version is what
+  flows downstream. Edit changes the current image; Rerun
+  recreates from scratch with its references.
+- Storyboard/continuation tools exist to kill the "one good
+  image, no idea for the next five shots" block: continuations
+  extend the story across scenes with subject and style locked.
+- MagicFlow discipline: keep the concept prompt SHORT (direction,
+  not scene detail); ~5 scenes suffices for a short piece; set
+  the aspect ratio at build time; output quality tracks
+  reference quality directly.
+- Audio usually does NOT chain into the visual flow: voice and
+  SFX are created separately and laid in at the final edit —
+  which is exactly our ElevenLabs + ffmpeg finish.
+
+### Explicitly NOT adopted from the course
+- Planted-mistake comment bait (recommended in the Social
+  module for history content): REJECTED. It conflicts with the
+  page's source-verified payoff rule. An open question is fine;
+  a planted error never is.
+- Comment pods, second-account self-debate, keyword-filter
+  games: not adopted. Comment work is Lucky's domain and runs
+  honestly.
+- Face/voice cloning of a real person as presenter (HeyGen,
+  Clone Yourself module): not adopted — Rajo stays anonymous,
+  no on-camera clone. The module's script and editing craft
+  (natural spoken scripts, B-roll over weak sections, 1.1-1.2x
+  delivery speed fix) is adopted as technique only.
+- Kling, Seedance, HeyGen, Midjourney as tools: not adopted
+  (no new subscriptions; Gemini-first + pause rule stands).
+  Their transferable techniques are in the sections above.
+- Ad funnel mechanics (offers, CTA engineering, paid testing):
+  not adopted — the page is not salesy. The transferable script
+  and psychology rules are in "Scripts and hooks" above.
+- Entertainment-niche formats (stadium cam, anime filmset,
+  absurdity prompt packs, celebrity likenesses): not adopted.
+
 ## Project overrides (unchanged, win on any conflict)
 
 - Rajo approves the exact text of every post and every finished video
