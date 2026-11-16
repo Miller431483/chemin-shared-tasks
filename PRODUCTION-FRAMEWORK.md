@@ -148,6 +148,61 @@ camera, lighting, mood, style.
   and all six steps; ChatGPT and Mistral are optional extras for
   ideation
 
+## Image Generation Rules (added by Florence, 2026-11-16)
+
+Source: "AI Image Creation Basics in Studio" lesson guide
+(01-ai_image_creation_basics_guide.pdf) plus Florence's mapping of
+Studio onto our stack.
+
+- What AI image generation actually is: not random prompting. Best
+  results combine four elements — prompt, model, settings, and
+  references. Repeatable and learnable once those four are
+  understood. The loop is generate, review, adjust, repeat.
+- The prompt bar: three modes (image, video, audio), each with its
+  own settings — in our stack these are separate tools (Gemini for
+  images, Flow for video, ElevenLabs for audio). Assist / Wise
+  Enhance turn rough ideas into detailed AVB prompts; always check
+  the enhanced prompt still matches the original intent before
+  generating.
+- Model and settings:
+  - The model is the engine; different models suit realism, editing,
+    speed, quality, reference-following. If results stay
+    unsatisfying, switching models is a valid fix — add it to the
+    AVB diagnosis before re-rolling the same model.
+  - Aspect ratio: choose once and stick to it per project. 16:9
+    YouTube/cinematic, 9:16 TikTok/Reels/Shorts (our default),
+    1:1 profile/product/static.
+  - Quality: test cheap and fast while exploring; highest quality
+    only for finals. Cost is shown before generating; multiple
+    outputs and high quality cost more.
+  - Outputs: generate several variations (up to 4) and pick the
+    strongest; never judge an idea from one generation.
+- Reference images:
+  - Upload a reference to show what words cannot; use for character
+    consistency, products, clothing, poses, locations, style,
+    colours.
+  - ALWAYS state in the prompt what the reference is for and what
+    to preserve: "use as character reference, keep face, hairstyle
+    and skin tone, place her in..." An unexplained reference gets
+    the wrong element copied (pose instead of face, background
+    instead of outfit).
+  - If identity: preserve face, hair, skin tone, body type. If
+    outfit: preserve clothing, change location. If product:
+    preserve packaging, logo, shape, colour, material. If pose
+    only: say pose reference, NOT identity reference.
+  - This is the mechanism behind our character-continuity rule: the
+    series anchor still is an identity reference and every later
+    prompt must say so explicitly.
+  - Saved characters/products (@ button) → our equivalent: the
+    episode package's reference stills, re-added each time (Flow
+    "ingredients" where Flow is usable).
+- Credits and navigation: test ideas with fewer outputs or a faster
+  model before committing credits to high-quality runs. Project
+  reality: Gemini web has no Veo model/quality selector and Flow
+  does not run in our browser, so our credit discipline is the
+  account rotation plus the Gemini-first + pause rule; where a
+  cheaper test generation exists, use it before the final render.
+
 ## Project overrides (unchanged, win on any conflict)
 
 - Rajo approves the exact text of every post and every finished video
