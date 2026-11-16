@@ -7,8 +7,9 @@
   "facebook": 128,
   "tiktok": 68
  },
- "pattern": "Facebook text posts 06:00 (non-book teaching: authors, traditions, concepts) and 19:00 (sells the one book of the day); Facebook explanation (main) video 12:30 and Facebook short 20:30; TikTok short 12:30 and TikTok explanation (main) video 20:30. Les séries sont des chaînes indépendantes par plateforme : l'ordre et la continuité comptent à l'intérieur de chaque plateforme, les dates peuvent différer entre Facebook et TikTok. Rose-Croix est diffusée sur Facebook uniquement (retirée de TikTok le 2026-11-13). Un court appartient à un principal précis et reçoit sa propre date par plateforme. Les textes Facebook 06:00 (enseignement, sans livre) et 19:00 (vente du livre du jour) suivent le calendrier Facebook. Règle du 2026-11-16 : un seul livre par jour. Saturdays add a pre-recorded Facebook Q&A at 18:00.",
+ "pattern": "Facebook text posts 06:00 (non-book teaching: authors, traditions, concepts) and 19:00 (sells the one book of the day); Facebook explanation (main) video 12:30 and Facebook short 20:30; TikTok short 12:30 and TikTok explanation (main) video 20:30. Les séries sont des chaînes indépendantes par plateforme : l'ordre et la continuité comptent à l'intérieur de chaque plateforme, les dates peuvent différer entre Facebook et TikTok. Rose-Croix est diffusée sur Facebook uniquement (retirée de TikTok le 2026-11-13). Un court appartient à un principal précis et reçoit sa propre date par plateforme. Les textes Facebook 06:00 (enseignement, sans livre) et 19:00 (vente du livre du jour) suivent le calendrier Facebook. Règle du 2026-11-16 : un seul livre par jour. Saturday 18:00 Q&A paused by Rajo 2026-11-16 (no Q&A for now).",
  "decisions": [
+  "Q&A paused 2026-11-16 by Rajo: no Saturday 18:00 pre-recorded Q&A for now (21 Nov, 28 Nov, 5 Dec entries cancelled; 14 Nov marked cancelled, it was already skipped). May return later.",
   "New rhythm decided 2026-11-16 by Rajo, from Tue 17 Nov: ONE book a day only. Facebook 06:00 text posts are NON-book teachings (authors, traditions, concepts, psalms, angels, symbols); 19:00 sells the one book of the day. Mornings 17 Nov–3 Dec reworked with Wise and approved by Rajo 16 Nov 2026. Video cadence unchanged.",
   "RESOLVED 2026-11-16 by the new rhythm: Sun 29 Nov 06:00 is now a non-book teaching post (Charger, consacrer, activer un talisman), so Fikri (book 1363, 6–9 pages) is out entirely and no book replacement is needed. The 29 Nov videos are Crowley Episode 5 (main) and the philosopher's stone (short).",
   "Georges Lahy, Les 72 noms du Nom (book 755) was cancelled from the 11 Nov 19:00 slot and is back to a draft, still needing a new day. A different Lahy book, Paroles de nombres, is planned for Wed 18 Nov at 19:00.",
@@ -232,8 +233,8 @@
    "type": "Explanation long video",
    "topic": "Q and A pré-enregistrée, semaine 1: questions du public, sources Rose-Croix",
    "source": "Revue Rose-Croix no. 210 et no. 141; Noces Chymiques",
-   "notes": "Planned. Pre-recorded Q and A video, replaces the planned live. Extra slot.",
-   "status": "planned"
+   "notes": "Cancelled 2026-11-16 by Rajo: no Q&A for now (the 14 Nov slot was already skipped, never recorded).",
+   "status": "cancelled"
   },
   {
    "date": "2026-11-14",
@@ -662,8 +663,8 @@
    "type": "Explanation long video",
    "topic": "Q and A pré-enregistrée, semaine 2: psaumes et sceau copte",
    "source": "Gérard Viaud (2269)",
-   "notes": "Planned. Pre-recorded Q and A video, replaces the planned live. Extra slot.",
-   "status": "planned"
+   "notes": "Cancelled 2026-11-16 by Rajo: no Q&A for now. Pre-recorded Q and A video, paused; may return later.",
+   "status": "cancelled"
   },
   {
    "date": "2026-11-21",
@@ -1092,8 +1093,8 @@
    "type": "Explanation long video",
    "topic": "Q and A pré-enregistrée, semaine 3: anges et psaumes",
    "source": "Frater Eisenheim; Gérard Viaud (2269)",
-   "notes": "Planned. Pre-recorded Q and A video, replaces the planned live. Extra slot.",
-   "status": "planned"
+   "notes": "Cancelled 2026-11-16 by Rajo: no Q&A for now. Pre-recorded Q and A video, paused; may return later.",
+   "status": "cancelled"
   },
   {
    "date": "2026-11-28",
@@ -1522,8 +1523,8 @@
    "type": "Explanation long video",
    "topic": "Q and A pré-enregistrée, semaine 4: géométrie des manuscrits",
    "source": "Guy Michel Arend (717)",
-   "notes": "Planned. Pre-recorded Q and A video, replaces the planned live. Extra slot.",
-   "status": "planned"
+   "notes": "Cancelled 2026-11-16 by Rajo: no Q&A for now. Pre-recorded Q and A video, paused; may return later.",
+   "status": "cancelled"
   },
   {
    "date": "2026-12-05",
